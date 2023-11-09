@@ -35380,7 +35380,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="6634"/>
         <source>Cancel</source>
-        <translation>关闭</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Logical/LogicalWorkspace.cpp" line="7597"/>
@@ -42140,7 +42140,7 @@ Total Area: scaleless</source>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="814"/>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="867"/>
         <source>Down</source>
-        <translation>向下</translation>
+        <translation>Down</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="80"/>
@@ -42154,7 +42154,7 @@ Total Area: scaleless</source>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="814"/>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="867"/>
         <source>Up</source>
-        <translation>向上</translation>
+        <translation>Up</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="81"/>
