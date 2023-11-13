@@ -3396,7 +3396,7 @@ Comments: </source>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12333"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="13110"/>
         <source>New</source>
-        <translation>新增</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12047"/>
@@ -4564,7 +4564,7 @@ ID：net.netacad.cisco.autoIP
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="214"/>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="217"/>
         <source>New</source>
-        <translation>新增</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="263"/>
@@ -5901,7 +5901,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/IoE/BasePhysicalObjectDialog.ui" line="374"/>
         <location filename="../gui/DesignerFiles/IoE/BasePhysicalObjectDialog.ui" line="376"/>
         <source>New</source>
-        <translation>新增</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/BasePhysicalObjectDialog.ui" line="381"/>
@@ -6110,7 +6110,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/IoE/BaseSubComponent.ui" line="60"/>
         <location filename="../gui/DesignerFiles/IoE/BaseSubComponent.ui" line="62"/>
         <source>New</source>
-        <translation>新增</translation>
+        <translation>新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/BaseSubComponent.ui" line="73"/>
@@ -6741,7 +6741,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/AboutDialog.cpp" line="36"/>
         <source>About</source>
-        <translation>大约</translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="../gui/AboutDialog.cpp" line="72"/>
@@ -12754,113 +12754,113 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="44"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="47"/>
         <source>Algorithm Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>算法设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="69"/>
         <source>CBAC</source>
-        <translation type="unfinished"></translation>
+        <translation>CBAC</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="77"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="80"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="83"/>
         <source>Half-Open Session Multiplier:</source>
-        <translation type="unfinished"></translation>
+        <translation>半开会话乘数：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="103"/>
         <source>Half Open Session Multiplier</source>
-        <translation type="unfinished"></translation>
+        <translation>半开会话乘数</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="121"/>
         <source>TCP</source>
-        <translation type="unfinished"></translation>
+        <translation>TCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="129"/>
         <source>Maximum Number of TCP connections</source>
-        <translation type="unfinished"></translation>
+        <translation>最大 TCP 连接数</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="139"/>
         <source>Maximum number of opened TCP Sessions</source>
-        <translation type="unfinished"></translation>
+        <translation>打开的 TCP 会话的最大数量</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="149"/>
         <source>Maximum retransmission timeout in milliseconds</source>
-        <translation type="unfinished"></translation>
+        <translation>最大重传超时(以毫秒为单位)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="159"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="162"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="165"/>
         <source>Maximum Number of Connections:</source>
-        <translation type="unfinished"></translation>
+        <translation>最大连接数：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="172"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="175"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="178"/>
         <source>Maximum Number of Opened Sessions:</source>
-        <translation type="unfinished"></translation>
+        <translation>打开的最大会话数：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="203"/>
         <source>QoS</source>
-        <translation type="unfinished"></translation>
+        <translation>QoS</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="211"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="214"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="217"/>
         <source>Queue Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>队列大小：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="237"/>
         <source>QoS Queue size</source>
-        <translation type="unfinished"></translation>
+        <translation>QoS 队列大小</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="252"/>
         <source>Switching</source>
-        <translation type="unfinished"></translation>
+        <translation>交换</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="260"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="263"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="266"/>
         <source>Storm Control Multiplier:</source>
-        <translation type="unfinished"></translation>
+        <translation>风暴控制倍增器：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="286"/>
         <source>Broadcast storm control multiplier</source>
-        <translation type="unfinished"></translation>
+        <translation>广播风暴控制倍增器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="329"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="332"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="335"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="342"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="345"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="348"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="185"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="188"/>
         <location filename="../gui/DesignerFiles/dialogs/options/AlgorithmSettingsDlgBase.ui" line="191"/>
         <source>Maximum Retransmission Timeout in Milliseconds:</source>
-        <translation type="unfinished"></translation>
+        <translation>最大重传超时(毫秒)：</translation>
     </message>
 </context>
 <context>
@@ -12868,118 +12868,118 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="81"/>
         <source>Send &apos;Do&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>发送“Do”</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="82"/>
         <source>Send &apos;Re&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>发送“Re”</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="83"/>
         <source>Send &apos;Mi&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>发送“Mi”</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="86"/>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="87"/>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="88"/>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="89"/>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="90"/>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="91"/>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="92"/>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="93"/>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="94"/>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="95"/>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="348"/>
         <source>Unknown Number</source>
-        <translation type="unfinished"></translation>
+        <translation>未知号码</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="361"/>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="564"/>
         <source>Enter Number</source>
-        <translation type="unfinished"></translation>
+        <translation>输入号码</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="388"/>
         <source>The line is disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>线路已断开</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="407"/>
         <source>To: </source>
-        <translation type="unfinished"></translation>
+        <translation>到：</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="424"/>
         <source>The phone is ringing</source>
-        <translation type="unfinished"></translation>
+        <translation>电话铃声响起</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="431"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="438"/>
         <source>Playing &apos;Do&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>演奏&quot;Do&quot;...</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="445"/>
         <source>Playing &apos;Re&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>演奏&quot;Re&quot;...</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="452"/>
         <source>Playing &apos;Mi&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>演奏&quot;Mi&quot;...</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Repeater/AnalogPhoneGUI.cpp" line="467"/>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>繁忙</translation>
     </message>
 </context>
 <context>
@@ -13021,511 +13021,512 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="867"/>
         <location filename="../gui/AppWindow.cpp" line="869"/>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>重做</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="878"/>
         <source>Algorithm Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>算法设置</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="913"/>
         <location filename="../gui/AppWindow.cpp" line="917"/>
         <source>Secondary Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>辅助工具栏</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1939"/>
         <source>Show Viewport</source>
-        <translation type="unfinished"></translation>
+        <translation>显示视窗</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1075"/>
         <source>Ctrl+H</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+H</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1806"/>
         <source>PDU List Window</source>
-        <translation type="unfinished"></translation>
+        <translation>PDU 列表窗口</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1906"/>
         <source>Network Information</source>
-        <translation type="unfinished"></translation>
+        <translation>网络信息</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="935"/>
         <location filename="../gui/AppWindow.cpp" line="937"/>
         <location filename="../gui/AppWindow.cpp" line="1995"/>
         <source>Custom Devices Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义设备对话框</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="737"/>
         <location filename="../gui/AppWindow.cpp" line="739"/>
         <location filename="../gui/AppWindow.cpp" line="741"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>新建</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="744"/>
         <source>Open ...</source>
-        <translation type="unfinished"></translation>
+        <translation>打开...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="746"/>
         <location filename="../gui/AppWindow.cpp" line="748"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>打开</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="751"/>
         <source>Open Samples ...</source>
-        <translation type="unfinished"></translation>
+        <translation>打开样品...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="753"/>
         <location filename="../gui/AppWindow.cpp" line="755"/>
         <source>Open Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>打开样品</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="758"/>
         <location filename="../gui/AppWindow.cpp" line="760"/>
         <location filename="../gui/AppWindow.cpp" line="762"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="765"/>
         <source>Save As ...</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="767"/>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="771"/>
         <source>Save As PKZ ...</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为 PKZ...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="775"/>
         <source>Save As PKC ...</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为 PKC...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="777"/>
         <source>Save As PKC</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为 PKC</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="781"/>
         <source>Save As Common Cartridge ...</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为 Common Cartridge...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="798"/>
         <source>Print ...</source>
-        <translation type="unfinished"></translation>
+        <translation>打印...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="800"/>
         <location filename="../gui/AppWindow.cpp" line="802"/>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>打印</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="807"/>
         <location filename="../gui/AppWindow.cpp" line="808"/>
         <source>Recent File 1</source>
-        <translation type="unfinished"></translation>
+        <translation>最近的文件 1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="811"/>
         <location filename="../gui/AppWindow.cpp" line="812"/>
         <source>Recent File 2</source>
-        <translation type="unfinished"></translation>
+        <translation>最近的文件 2</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="815"/>
         <location filename="../gui/AppWindow.cpp" line="816"/>
         <source>Recent File 3</source>
-        <translation type="unfinished"></translation>
+        <translation>最近的文件 3</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="819"/>
         <location filename="../gui/AppWindow.cpp" line="820"/>
         <source>Recent File 4</source>
-        <translation type="unfinished"></translation>
+        <translation>最近的文件 4</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="823"/>
         <location filename="../gui/AppWindow.cpp" line="824"/>
         <source>Recent File 5</source>
-        <translation type="unfinished"></translation>
+        <translation>最近的文件 5</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="830"/>
         <source>Exit and Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>退出和注销</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="831"/>
         <source>Quit Packet Tracer and log out of your account. You will need to enter your login credentials again in your next session.</source>
-        <translation type="unfinished"></translation>
+        <translation>退出 Packet Tracer 并注销您的帐户。您将需要在下一个会话中再次输入您的登录凭据。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="835"/>
         <location filename="../gui/AppWindow.cpp" line="836"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="843"/>
         <location filename="../gui/AppWindow.cpp" line="845"/>
         <location filename="../gui/AppWindow.cpp" line="847"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>复制</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="850"/>
         <location filename="../gui/AppWindow.cpp" line="852"/>
         <location filename="../gui/AppWindow.cpp" line="854"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="858"/>
         <location filename="../gui/AppWindow.cpp" line="860"/>
         <location filename="../gui/AppWindow.cpp" line="862"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>撤消</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="873"/>
         <source>Preferences ...</source>
-        <translation type="unfinished"></translation>
+        <translation>首选项...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="875"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>首选项</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="880"/>
         <source>Change algorithm behavior to allow the simulation to achieve certain algorithm behavior easier.</source>
-        <translation type="unfinished"></translation>
+        <translation>更改算法行为，使仿真更容易实现某些算法行为。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="932"/>
         <source>Annotate your workspace with shapes and colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用形状和颜色对工作区进行注释。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="939"/>
         <source>Customize any existing device model with pre-installed modules and IOS versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用预安装的模块和IOS版本自定义任何现有设备型号。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="945"/>
         <source>Manage script modules running on individual devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>管理在单个设备上运行的脚本模块。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="952"/>
         <source>Associate Logical Workspace clusters to Physical Workspace containers.</source>
-        <translation type="unfinished"></translation>
+        <translation>将逻辑工作空间群集关联到物理工作空间容器。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="963"/>
         <source>Open the Activity Wizard to create your own PKA activities.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 活动向导 以创建自己的 PKA 活动。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="969"/>
         <source>Display all opened listening TCP/IP ports used by Packet Tracer.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示 Packet Tracer 使用的所有打开的侦听 TCP/IP 端口。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="975"/>
         <source>Manage multiuser listening server options.</source>
-        <translation type="unfinished"></translation>
+        <translation>管理多用户侦听服务器选项。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="980"/>
         <source>Manage virtual device ports made available for multiuser connections.</source>
-        <translation type="unfinished"></translation>
+        <translation>管理可用于多用户连接的虚拟设备端口。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="986"/>
         <source>Manage multiuser behavior options.</source>
-        <translation type="unfinished"></translation>
+        <translation>管理多用户行为选项。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="991"/>
         <source>Create a single offline PKT file from all attached multiuser peers.</source>
-        <translation type="unfinished"></translation>
+        <translation>从所有附加的多用户对等体创建单个脱机 PKT 文件。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1000"/>
         <source>Manage external applications associated with Packet Tracer.</source>
-        <translation type="unfinished"></translation>
+        <translation>管理与 Packet Tracer 关联的外部应用程序。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1004"/>
         <source>View all external applications currently attached to Packet Tracer.</source>
-        <translation type="unfinished"></translation>
+        <translation>查看当前附加到 Packet Tracer 的所有外部应用程序。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1010"/>
         <source>Manage Packet Tracer Inter-Process Communication options.</source>
-        <translation type="unfinished"></translation>
+        <translation>管理 Packet Tracer 进程间通信选项。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1015"/>
         <source>Display the Packet Tracer Inter-Process Communication logs.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示 Packet Tracer 进程间通信日志。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1022"/>
         <source>Manage application wide scripts running within Packet Tracer.</source>
-        <translation type="unfinished"></translation>
+        <translation>管理在 Packet Tracer 中运行的应用程序范围的脚本。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1026"/>
         <source>Create your own application wide script module.</source>
-        <translation type="unfinished"></translation>
+        <translation>创建自己的应用程序范围的脚本模块。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1030"/>
         <source>Edit the file wide singleton script module that is always running.</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑始终运行的文件范围的单一实例脚本模块。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1035"/>
         <source>Manage custom HTML based GUI interfaces for specific device models application wide.</source>
-        <translation type="unfinished"></translation>
+        <translation>管理基于HTML的自定义GUI界面，适用于特定设备型号的应用范围。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1039"/>
         <source>Manage custom HTML based GUI interfaces for specific device models to be applied only to this file.</source>
-        <translation type="unfinished"></translation>
+        <translation>管理特定设备型号的基于 HTML 的自定义 GUI 界面，以仅应用于此文件。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1092"/>
         <source>Go to simulation mode where the simulation time will freeze and you can control the time and view individual packets as they traverse the network.</source>
-        <translation type="unfinished"></translation>
+        <translation>进入模拟模式，模拟时间将冻结，您可以控制时间并查看遍历网络的单个数据包。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1097"/>
         <source>Go to realtime mode where the simulation will run at almost real life speed.</source>
-        <translation type="unfinished"></translation>
+        <translation>进入实时模式，模拟将以几乎真实的速度运行。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1102"/>
         <source>View the workspace as a logical representation of the network.</source>
-        <translation type="unfinished"></translation>
+        <translation>将工作空间视为网络的逻辑表示形式。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1107"/>
         <source>View the workspace with a physical representation of the network.</source>
-        <translation type="unfinished"></translation>
+        <translation>查看具有网络物理表示形式的工作区。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1330"/>
         <source>You have used %1 of your %2 saves available in the guest version of %3. To eliminate this restriction, please go to this location and sign up for the &lt;u&gt;&lt;b&gt;free&lt;/b&gt;&lt;/u&gt; %4 training course.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>您已使用 %3 来宾版本中可用的 %2 保存中的 %1。要消除此限制，请转到此位置并注册&lt;u&gt;&lt;b&gt;免费的&lt;/b&gt;&lt;/u&gt; %4 培训课程。
+</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1332"/>
         <source>Here you will learn how to effectively use %5 and register for a netacad.com ID which in turn will allow you to register your copy of %6 for no cost and eliminate the save restriction in this copy of %7. By getting a netacad.com ID, you will also be able to take other free courses available on netacad.com.</source>
-        <translation type="unfinished"></translation>
+        <translation>在这里，您将学习如何有效地使用 %5 并注册 netacad.com ID，这反过来又允许您免费注册 %6 的副本，并消除此 %7 副本中的保存限制。通过获得 netacad.com ID，您还可以参加 netacad.com 上提供的其他免费课程。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1338"/>
         <source>Guest Save -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>来宾保存 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1916"/>
         <source>User Profile ...</source>
-        <translation type="unfinished"></translation>
+        <translation>用户配置文件...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1920"/>
         <source>User Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>用户配置文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1965"/>
         <source>View Command Log</source>
-        <translation type="unfinished"></translation>
+        <translation>查看命令日志</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="884"/>
         <location filename="../gui/AppWindow.cpp" line="886"/>
         <location filename="../gui/AppWindow.cpp" line="888"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>放大</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="891"/>
         <location filename="../gui/AppWindow.cpp" line="893"/>
         <location filename="../gui/AppWindow.cpp" line="895"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>缩小</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="898"/>
         <location filename="../gui/AppWindow.cpp" line="900"/>
         <location filename="../gui/AppWindow.cpp" line="902"/>
         <source>Zoom Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>重置缩放</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="906"/>
         <location filename="../gui/AppWindow.cpp" line="910"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>主工具栏</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="920"/>
         <location filename="../gui/AppWindow.cpp" line="924"/>
         <source>Bottom Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>底部工具栏</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1951"/>
         <source>Show Workspace List</source>
-        <translation type="unfinished"></translation>
+        <translation>显示工作区列表</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="928"/>
         <source>Drawing Palette ...</source>
-        <translation type="unfinished"></translation>
+        <translation>绘图调色板...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="790"/>
         <source>Reset Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>重置活动</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="930"/>
         <source>Drawing Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>绘图调色板</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="943"/>
         <source>Script Project Manager ...</source>
-        <translation type="unfinished"></translation>
+        <translation>脚本项目管理 ...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="948"/>
         <location filename="../gui/AppWindow.cpp" line="950"/>
         <source>Cluster Associations Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>群集关联对话框</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="959"/>
         <source>Activity Wizard ...</source>
-        <translation type="unfinished"></translation>
+        <translation>活动向导 ...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="961"/>
         <source>Activity Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>活动向导</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="967"/>
         <source>Listening Ports ...</source>
-        <translation type="unfinished"></translation>
+        <translation>侦听端口...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="973"/>
         <source>Listen ...</source>
-        <translation type="unfinished"></translation>
+        <translation>侦听...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="978"/>
         <source>Port Visibility ...</source>
-        <translation type="unfinished"></translation>
+        <translation>端口可见 ...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="984"/>
         <location filename="../gui/AppWindow.cpp" line="1008"/>
         <source>Options ...</source>
-        <translation type="unfinished"></translation>
+        <translation>选项...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="989"/>
         <source>Save Offline Copy As ...</source>
-        <translation type="unfinished"></translation>
+        <translation>将脱机副本另存为...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="998"/>
         <source>Configure Apps ...</source>
-        <translation type="unfinished"></translation>
+        <translation>配置应用程序...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1002"/>
         <source>Show Active Apps ...</source>
-        <translation type="unfinished"></translation>
+        <translation>显示活动应用程序...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1013"/>
         <source>Log ...</source>
-        <translation type="unfinished"></translation>
+        <translation>日志...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1029"/>
         <source>Edit File Script Module ...</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑文件脚本模块...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1034"/>
         <source>Configure Global Custom Interfaces ...</source>
-        <translation type="unfinished"></translation>
+        <translation>配置全局自定义接口...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1038"/>
         <source>Configure File Custom Interfaces ...</source>
-        <translation type="unfinished"></translation>
+        <translation>配置文件自定义接口...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1049"/>
         <location filename="../gui/AppWindow.cpp" line="1050"/>
         <source>Getting Started</source>
-        <translation type="unfinished"></translation>
+        <translation>开始</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1054"/>
         <location filename="../gui/AppWindow.cpp" line="1057"/>
         <location filename="../gui/AppWindow.cpp" line="1058"/>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>目录</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1061"/>
         <location filename="../gui/AppWindow.cpp" line="1062"/>
         <source>Tutorials</source>
-        <translation type="unfinished"></translation>
+        <translation>教程</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1066"/>
         <location filename="../gui/AppWindow.cpp" line="1067"/>
         <source>Report an Issue</source>
-        <translation type="unfinished"></translation>
+        <translation>报告问题</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1070"/>
         <location filename="../gui/AppWindow.cpp" line="1071"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1090"/>
@@ -13967,120 +13968,120 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="791"/>
         <source>Erase all progress and start your PKA Activity from the beginning.</source>
-        <translation type="unfinished"></translation>
+        <translation>删除所有进度并从头开始您的 PKA 活动。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2404"/>
         <location filename="../gui/AppWindow.cpp" line="2517"/>
         <source>New -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>新建 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2660"/>
         <source>Open -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2699"/>
         <source> File</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2703"/>
         <source> and ExApp Supported File</source>
-        <translation type="unfinished"></translation>
+        <translation> 和 ExApp 支持的文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2729"/>
         <source> File (*.pkt *.pkac *.pkc)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> 文件 (*.pkt *.pkac *.pkc)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2875"/>
         <source>Failed to open file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2876"/>
         <location filename="../gui/AppWindow.cpp" line="2992"/>
         <source>Invalid File -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无效文件 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2877"/>
         <location filename="../gui/AppWindow.cpp" line="3011"/>
         <source>The file %1 is not compatible with this version of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>文件 %1 与此版本的 %2 不兼容</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2969"/>
         <location filename="../gui/AppWindow.cpp" line="3935"/>
         <source>File Open finished</source>
-        <translation type="unfinished"></translation>
+        <translation>文件打开完成</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2981"/>
         <location filename="../gui/AppWindow.cpp" line="2989"/>
         <location filename="../gui/AppWindow.cpp" line="3936"/>
         <source>File failed to open</source>
-        <translation type="unfinished"></translation>
+        <translation>文件无法打开</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3022"/>
         <source>Unable to open file. </source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开文件。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3191"/>
         <source>Loading Network.</source>
-        <translation type="unfinished"></translation>
+        <translation>加载网络。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3517"/>
         <source>Scoring the activity</source>
-        <translation type="unfinished"></translation>
+        <translation>对活动进行评分</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3586"/>
         <location filename="../gui/AppWindow.cpp" line="3640"/>
         <source>Please wait. Opening file...</source>
-        <translation type="unfinished"></translation>
+        <translation>请稍候。正在打开文件...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3674"/>
         <source>Opening file</source>
-        <translation type="unfinished"></translation>
+        <translation>打开文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3849"/>
         <source>We encountered a problem while saving </source>
-        <translation type="unfinished"></translation>
+        <translation>我们在保存时遇到了一个问题</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3849"/>
         <source>. Please report this issue to http://ptbugs.ptnetacad.net and attach the save file.</source>
-        <translation type="unfinished"></translation>
+        <translation>.请向 http://ptbugs.ptnetacad.net 报告此问题并附上保存文件。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3852"/>
         <source>We noticed this file contained some recoverable errors and have fixed it for you. You may notice devices or containers may be in a different location or of a difference size than was originally created. The following list of items contains unrecoverable errors and were not fixed: </source>
-        <translation type="unfinished"></translation>
+        <translation>我们注意到此文件包含一些可恢复的错误，并已为您修复。你可能会注意到设备或容器可能位于与最初创建的位置不同的位置或大小不同。以下项目列表包含不可恢复的错误，并且未修复：</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3852"/>
         <location filename="../gui/AppWindow.cpp" line="3858"/>
         <source>. Please report this issue to http://ptbugs.ptnetacad.net and attach the file without re-saving this file. These errors may be fixed by deleting the corrupt item and recreating it.</source>
-        <translation type="unfinished"></translation>
+        <translation>.请将此问题报告给 http://ptbugs.ptnetacad.net 并附加文件，而无需重新保存此文件。可以通过删除损坏的项目并重新创建它来修复这些错误。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3855"/>
         <source>We noticed this file contained some recoverable errors and have fixed it for you. You may notice devices or containers may be in a different location or of a difference size than was originally created.</source>
-        <translation type="unfinished"></translation>
+        <translation>我们注意到此文件包含一些可恢复的错误，并已为您修复。你可能会注意到设备或容器可能位于与最初创建的位置不同的位置或大小不同。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3858"/>
         <source>We noticed an unrecoverable error in this file while loading </source>
-        <translation type="unfinished"></translation>
+        <translation>我们在加载时注意到此文件中出现不可恢复的错误</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4144"/>
@@ -14090,47 +14091,50 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="4382"/>
         <location filename="../gui/AppWindow.cpp" line="4421"/>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>保存文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4262"/>
         <source>Save File As Common Cartridge</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为 Common Cartridge</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4263"/>
         <source>Common Cartridge (*.imscc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Common Cartridge (*.imscc)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4278"/>
         <source>Can not overwrite exiting file: 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>无法覆盖现有文件：
+</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4315"/>
         <source>Failed to start external CC exporter: 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动外部 CC 导出器：
+</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4318"/>
         <source>External CC exporter is not responding.</source>
-        <translation type="unfinished"></translation>
+        <translation>外部 CC 导出器没有响应。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4322"/>
         <location filename="../gui/AppWindow.cpp" line="4360"/>
         <source>File saved: 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>文件保存：
+</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4513"/>
         <location filename="../gui/AppWindow.cpp" line="8210"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4513"/>
@@ -14138,104 +14142,104 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="6564"/>
         <location filename="../gui/AppWindow.cpp" line="8210"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4568"/>
         <source>Please enter the password: </source>
-        <translation type="unfinished"></translation>
+        <translation>请输入密码：</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4682"/>
         <location filename="../gui/AppWindow.cpp" line="5104"/>
         <source>The password you entered is incorrect!</source>
-        <translation type="unfinished"></translation>
+        <translation>您输入的密码不正确！</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4711"/>
         <source>Do you want to use the current network as the answer network?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否要使用当前网络作为应答网络？</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4712"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;取消</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="5383"/>
         <location filename="../gui/AppWindow.cpp" line="6501"/>
         <source>Network Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>网络说明：</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6079"/>
         <source>%1 (%2) wants to pair with %3 on Bluetooth. Do you want to pair?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2) 希望在蓝牙上与 %3 配对。你想配对吗？</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6084"/>
         <source>Bluetooth Pairing</source>
-        <translation type="unfinished"></translation>
+        <translation>蓝牙配对</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6512"/>
         <source>%1 Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 描述：</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6535"/>
         <source>There are some outdated IoT devices. Do you want to update them?</source>
-        <translation type="unfinished"></translation>
+        <translation>有一些过时的物联网设备。是否要更新它们？</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6536"/>
         <source>&amp;Update and Make a Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;更新并制作副本</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6563"/>
         <source>There are some outdated user apps. Do you want to update them?</source>
-        <translation type="unfinished"></translation>
+        <translation>有一些过时的用户应用程序。是否要更新它们？</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6795"/>
         <source>Any unsaved changes will be lost. Do you want to save your work?</source>
-        <translation type="unfinished"></translation>
+        <translation>任何未保存的更改都将丢失。你想保存你的工作吗？</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="8525"/>
         <source>Database Error. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>数据库错误。%1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1021"/>
         <source>Configure PT Script Modules ...</source>
-        <translation type="unfinished"></translation>
+        <translation>配置 PT 脚本模块...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1025"/>
         <source>New PT Script Module ...</source>
-        <translation type="unfinished"></translation>
+        <translation>新的 PT 脚本模块...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3100"/>
         <source>The publisher certificate of this file is about to expire.  The publisher certificate has the following information.</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件的发布者证书即将过期。 发布者证书包含以下信息。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3107"/>
         <source>The publisher certificate of this file has expired or is blocked.  The publisher certificate has the following information.</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件的发布者证书已过期或被阻止。 发布者证书包含以下信息。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="5086"/>
         <source>Please use the Scripting page of Activity Wizard to edit an activity file&apos;s script module. Select Advanced profile in the Welcome page of Activity Wizard to enable the Scripting page.</source>
-        <translation type="unfinished"></translation>
+        <translation>请使用活动向导的脚本页来编辑活动文件的脚本模块。在活动向导的欢迎页中选择高级配置文件以启用脚本页。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="5095"/>
         <source>Please enter the script module password: </source>
-        <translation type="unfinished"></translation>
+        <translation>请输入脚本模块密码：</translation>
     </message>
 </context>
 <context>
@@ -14243,156 +14247,156 @@ Port</source>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="20"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>主窗口</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="666"/>
         <source>Recent Files</source>
-        <translation type="unfinished"></translation>
+        <translation>最近打开的文件</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="720"/>
         <source>E&amp;xtensions</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;扩展</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="724"/>
         <source>Multiuser</source>
-        <translation type="unfinished"></translation>
+        <translation>多用户</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="729"/>
         <source>IPC</source>
-        <translation type="unfinished"></translation>
+        <translation>IPC</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="734"/>
         <source>Scripting</source>
-        <translation type="unfinished"></translation>
+        <translation>脚本</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="696"/>
         <source>&amp;Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;缩放</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="662"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;文件</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="154"/>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="160"/>
         <source>Logical Mode (Shift+L)</source>
-        <translation type="unfinished"></translation>
+        <translation>逻辑模式 (Shift+L)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="157"/>
         <source>Logical Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>逻辑模式</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="163"/>
         <source>Logical</source>
-        <translation type="unfinished"></translation>
+        <translation>逻辑</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="182"/>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="188"/>
         <source>Physical Mode (Shift+P)</source>
-        <translation type="unfinished"></translation>
+        <translation>物理模式 (Shift+P)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="185"/>
         <source>Physical Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>物理模式</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="194"/>
         <source>Physical</source>
-        <translation type="unfinished"></translation>
+        <translation>物理</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="450"/>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="456"/>
         <source>Realtime Mode (Shift+R)</source>
-        <translation type="unfinished"></translation>
+        <translation>实时模式 (Shift+R)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="453"/>
         <source>Realtime Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>实时模式</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="462"/>
         <source>Realtime</source>
-        <translation type="unfinished"></translation>
+        <translation>实时</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="481"/>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="487"/>
         <source>Simulation Mode (Shift+S)</source>
-        <translation type="unfinished"></translation>
+        <translation>模拟模式 (Shift+S)</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="484"/>
         <source>Simulation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>模拟模式</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="493"/>
         <source>Simulation</source>
-        <translation type="unfinished"></translation>
+        <translation>模拟</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="607"/>
         <source>User Created PDU toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>用户创建的 PDU 切换</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="676"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;编辑</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="684"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;选项</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="692"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;视图</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="701"/>
         <source>Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>工具栏</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="712"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;工具</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="747"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;帮助</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="752"/>
         <source>&amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;窗口</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="775"/>
         <source>Menu Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>菜单工具栏</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AppWindowBase.ui" line="778"/>
         <source>Main Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>主菜单</translation>
     </message>
 </context>
 <context>
@@ -14400,74 +14404,74 @@ Port</source>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="14"/>
         <source>ACL Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>ACL 过滤器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="28"/>
         <source>ACL name</source>
-        <translation type="unfinished"></translation>
+        <translation>ACL 名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="35"/>
         <source>ACL Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>ACL 过滤器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="43"/>
         <source>New filter</source>
-        <translation type="unfinished"></translation>
+        <translation>新建过滤器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="46"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>新建</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="56"/>
         <source>Rename filter</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名过滤器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="59"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="66"/>
         <source>Delete Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>删除过滤器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="69"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="88"/>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="91"/>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="94"/>
         <source>Enter an extended ACL statement below. Start with &quot;permit&quot; or &quot;deny&quot;. The next available commands will show up in the Context Help text field.</source>
-        <translation type="unfinished"></translation>
+        <translation>在下面输入扩展的 ACL 语句。以允许或拒绝开头。下一个可用命令将显示在上下文帮助文本字段中。</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="106"/>
         <source>ACL statement</source>
-        <translation type="unfinished"></translation>
+        <translation>ACL 语句</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="113"/>
         <source>Submit statement</source>
-        <translation type="unfinished"></translation>
+        <translation>提交声明</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="116"/>
         <source>Submit</source>
-        <translation type="unfinished"></translation>
+        <translation>提交</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="131"/>
         <source>Context help</source>
-        <translation type="unfinished"></translation>
+        <translation>上下文帮助</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="143"/>
@@ -14476,19 +14480,23 @@ Port</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="160"/>
         <source>List of statements</source>
-        <translation type="unfinished"></translation>
+        <translation>语句清单</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="167"/>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="170"/>
         <location filename="../gui/DesignerFiles/Simulation/BaseACLFiltersDialog.ui" line="173"/>
         <source>Delete Statement</source>
-        <translation type="unfinished"></translation>
+        <translation>删除语句</translation>
     </message>
 </context>
 <context>
@@ -22674,64 +22682,64 @@ Setting&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="14"/>
         <source>User Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>用户配置文件</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="28"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>名字：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="41"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名字</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="44"/>
         <source>Enter your name here</source>
-        <translation type="unfinished"></translation>
+        <translation>在此输入您的姓名</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="68"/>
         <source>E-Mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>电子邮件：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="81"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>电子邮件</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="84"/>
         <source>Enter your email here</source>
-        <translation type="unfinished"></translation>
+        <translation>在此输入您的电子邮件</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="108"/>
         <source>Additional Info:</source>
-        <translation type="unfinished"></translation>
+        <translation>附加信息：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="121"/>
         <source>Additional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>附加信息 </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="124"/>
         <source>Enter any additional information required</source>
-        <translation type="unfinished"></translation>
+        <translation>输入所需的任何其他信息</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="155"/>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="158"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="171"/>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="174"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>

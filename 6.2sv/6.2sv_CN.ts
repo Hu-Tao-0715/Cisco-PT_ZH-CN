@@ -4495,7 +4495,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1657"/>
         <source>Link Local Address:</source>
-        <translation>链接本地地址：</translation>
+        <translation type="unfinished">链接本地地址：  </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1689"/>
@@ -29114,17 +29114,17 @@ MAC Filter&lt;/b&gt;&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="898"/>
         <source>IP Address</source>
-        <translation>IP 地址</translation>
+        <translation>IP 地址      </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="950"/>
         <source>Subnet Mask</source>
-        <translation>子网掩码</translation>
+        <translation>子网掩码      </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1002"/>
         <source>Default Gateway</source>
-        <translation>默认网关</translation>
+        <translation>默认网关          </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1054"/>
@@ -29144,7 +29144,7 @@ MAC Filter&lt;/b&gt;&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1281"/>
         <source>IPv6 Address</source>
-        <translation>IPv6 地址</translation>
+        <translation>IPv6 地址       </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1320"/>
@@ -29154,17 +29154,17 @@ MAC Filter&lt;/b&gt;&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1353"/>
         <source>Link Local Address</source>
-        <translation>链接本地地址</translation>
+        <translation>链路本地地址        </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1402"/>
         <source>IPv6 Gateway</source>
-        <translation>IPv6 网关</translation>
+        <translation>IPv6 网关        </translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="1457"/>
         <source>IPv6 DNS Server</source>
-        <translation>IPv6 DNS服务器</translation>
+        <translation>IPv6 DNS 服务器</translation>
     </message>
 </context>
 <context>
@@ -30760,189 +30760,190 @@ Publisher Certificate Information:
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="790"/>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="797"/>
         <source>Invalid IP address entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的 IP 地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="873"/>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="880"/>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="888"/>
         <source>Invalid subnet address entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的子网地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="925"/>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="937"/>
         <source>Invalid MAC address entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的 MAC 地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="980"/>
         <source>This is an invalid IP address.</source>
-        <translation type="unfinished"></translation>
+        <translation>这是一个无效的 IP 地址。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="997"/>
         <source>Invalid IP Address entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的 IP 地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1008"/>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1026"/>
         <source>Invalid IP for this subnet mask entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的此子网掩码的 IP 无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1016"/>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1033"/>
         <source>Invalid subnet mask entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的子网掩码无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1108"/>
         <source>Invalid Subnet Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的子网掩码</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="1725"/>
         <source>Cannot remove a module when the power is on.</source>
-        <translation type="unfinished"></translation>
+        <translation>通电时无法卸下模块。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="460"/>
         <source>CLI</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="461"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>桌面</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="462"/>
         <source>GUI</source>
-        <translation type="unfinished"></translation>
+        <translation>图形界面</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="463"/>
         <source>Config</source>
-        <translation type="unfinished"></translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="464"/>
         <source>Physical</source>
-        <translation type="unfinished"></translation>
+        <translation>物理</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="466"/>
         <source>Configure Dialup Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>配置拨号设置</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="467"/>
         <source>Open a Host Command Line</source>
-        <translation type="unfinished"></translation>
+        <translation>打开主机命令行</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="468"/>
         <source>Configure IP Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>配置 IP 设置</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="469"/>
         <source>Open MIB Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 MIB 浏览器</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="470"/>
         <source>Open a Wireless Connection Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>打开无线连接设置</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="471"/>
         <source>Open a Terminal Window</source>
-        <translation type="unfinished"></translation>
+        <translation>打开终端窗口</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="472"/>
         <source>Traffic Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>流量生成器</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="473"/>
         <source>Configure VPN Client Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>配置 VPN 客户端设置</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="474"/>
         <source>Open Web Browser Window</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 Web 浏览器窗口</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="475"/>
         <source>Open Cisco IP Communicator</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 Cisco IP 通信器</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="477"/>
         <source>Adding Modules: Drag the module to an available slot on the device.
 Removing Modules: e module from the device to the module list.</source>
-        <translation type="unfinished"></translation>
+        <translation>添加模块：将模块拖动到设备上的可用插槽。
+移除模块：将模块从设备拖拽到模块列表。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="479"/>
         <source>Open Email Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>打开电子邮件浏览器</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="480"/>
         <source>PPPOE Dialer</source>
-        <translation type="unfinished"></translation>
+        <translation>PPPoE 拨号器</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="481"/>
         <source>AAA Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>AAA 查看器</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="482"/>
         <source>Open Firewall Application</source>
-        <translation type="unfinished"></translation>
+        <translation>打开防火墙应用程序</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="483"/>
         <source>Open IPv6 Firewall Application</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 IPv6 防火墙应用程序</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="484"/>
         <source>Open Netflow Collector Application</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 Netflow 收集器应用程序</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="2156"/>
         <source>IPv6 Address is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="2162"/>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="2171"/>
         <source>IPv6 Mask is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 掩码无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="560"/>
         <source>Software/Services</source>
-        <translation type="unfinished"></translation>
+        <translation>软件/服务</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="567"/>
         <source>Script module (%1) not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到脚本模块(%1)。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="608"/>
         <source>Custom Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义界面</translation>
     </message>
 </context>
 <context>
@@ -43337,61 +43338,62 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="73"/>
         <source>Script Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>脚本引擎</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="76"/>
         <source>Custom Interfaces</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义界面</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="79"/>
         <source>Data Store</source>
-        <translation type="unfinished"></translation>
+        <translation>数据存储</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="149"/>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="312"/>
         <source>None Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>未选择</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="181"/>
         <source>This script module was signed with a .p12 file before.
 Please select the .p12 file in order to sign it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>此脚本模块之前使用 .p12 文件进行签名。
+请选择 .p12 文件以再次签名。</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="195"/>
         <source>Without selecting a valid .p12 file would remove signing for this script module. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>如果不选择有效的 .p12 文件，将删除此脚本模块的签名。是否要继续？</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="215"/>
         <source>Any changes to your persistent script module not saved to its pts file will be lost. Do you want to close the Scripting Interface?</source>
-        <translation type="unfinished"></translation>
+        <translation>未保存到其 pts 文件的对持久性脚本模块所做的任何更改都将丢失。是否要关闭脚本界面？</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="217"/>
         <source>Any unsaved changes to your new script module will be lost. Do you want to close the Scripting Interface?</source>
-        <translation type="unfinished"></translation>
+        <translation>对新脚本模块的任何未保存的更改都将丢失。是否要关闭脚本界面？</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="269"/>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="497"/>
         <source>Enable Password</source>
-        <translation type="unfinished"></translation>
+        <translation>启用密码</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="277"/>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="487"/>
         <source>Disable Password</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用密码</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="307"/>
         <source>%1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 到 %2</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="313"/>
@@ -43399,42 +43401,42 @@ Please select the .p12 file in order to sign it again.</source>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="315"/>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="316"/>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="370"/>
         <source>PKCS #12 File (*.p12)</source>
-        <translation type="unfinished"></translation>
+        <translation>PKCS #12 文件 (*.p12)</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="370"/>
         <source>Select PKCS #12 File</source>
-        <translation type="unfinished"></translation>
+        <translation>选择 PKCS #12 文件</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="375"/>
         <source>.p12 File Pass Phrase</source>
-        <translation type="unfinished"></translation>
+        <translation>.p12 文件密码短语</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="376"/>
         <source>Enter .p12 file pass phrase:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入 .p12 文件密码短语：</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="388"/>
         <source>Error opening .p12 file.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 .p12 文件时出错。</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="397"/>
         <source>The .p12 file is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>.p12 文件无效。</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="403"/>
         <source>The .p12 file or pass phrase is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>.p12 文件或密码短语无效。</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="414"/>
@@ -46771,7 +46773,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="210"/>
         <source>Server</source>
-        <translation>服务</translation>
+        <translation>服务器</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="211"/>
@@ -47404,7 +47406,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="468"/>
         <source>Subnet mask</source>
-        <translation type="unfinished"></translation>
+        <translation>子网掩码</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="469"/>
