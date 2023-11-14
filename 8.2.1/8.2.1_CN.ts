@@ -13531,216 +13531,216 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1090"/>
         <source>Simulation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>模拟模式</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1095"/>
         <source>Realtime Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>实时模式</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1100"/>
         <source>Logical View</source>
-        <translation type="unfinished"></translation>
+        <translation>逻辑视图</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1105"/>
         <source>Physical View</source>
-        <translation type="unfinished"></translation>
+        <translation>物理视图</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1111"/>
         <location filename="../gui/AppWindow.cpp" line="1112"/>
         <source>Show Object List</source>
-        <translation type="unfinished"></translation>
+        <translation>显示对象列表</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1701"/>
         <source>Simulation Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>模拟面板</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1724"/>
         <source>PDU Info</source>
-        <translation type="unfinished"></translation>
+        <translation>PDU 信息</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1736"/>
         <source>create Custom PDU</source>
-        <translation type="unfinished"></translation>
+        <translation>创建自定义 PDU</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1748"/>
         <source>command log dock window</source>
-        <translation type="unfinished"></translation>
+        <translation>命令日志停靠窗口</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1761"/>
         <source>Info Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>信息对话框</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1774"/>
         <source>Scenario Info Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>方案信息对话框</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1787"/>
         <source>Physical Location</source>
-        <translation type="unfinished"></translation>
+        <translation>物理位置</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1800"/>
         <source>PDU List Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>PDU 列表窗口：</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1918"/>
         <source>Set the name, email, and additional information to be used for submission of this file. Profile is unrelated to your login information and status.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置用于提交此文件的名称、电子邮件和其他信息。个人资料与您的登录信息和状态无关。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1941"/>
         <source>View the entire workspace.</source>
-        <translation type="unfinished"></translation>
+        <translation>查看整个工作区。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1953"/>
         <source>View the workspace as a tabular list of devices and links.</source>
-        <translation type="unfinished"></translation>
+        <translation>以设备和链接的表格列表形式查看工作区。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1967"/>
         <source>View all commands entered in this file.</source>
-        <translation type="unfinished"></translation>
+        <translation>查看在此文件中输入的所有命令。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="1999"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>选择</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2001"/>
         <location filename="../gui/AppWindow.cpp" line="2004"/>
         <source>Select (Esc)</source>
-        <translation type="unfinished"></translation>
+        <translation>选择 (Esc)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2010"/>
         <source>Inspect</source>
-        <translation type="unfinished"></translation>
+        <translation>检查</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2012"/>
         <location filename="../gui/AppWindow.cpp" line="2014"/>
         <source>Inspect (I)</source>
-        <translation type="unfinished"></translation>
+        <translation>检查 (I)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2019"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2022"/>
         <location filename="../gui/AppWindow.cpp" line="2024"/>
         <source>Delete (Del)</source>
-        <translation type="unfinished"></translation>
+        <translation>删除 (Del)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2029"/>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>调整大小</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2031"/>
         <location filename="../gui/AppWindow.cpp" line="2033"/>
         <source>Resize (Alt+R)</source>
-        <translation type="unfinished"></translation>
+        <translation>调整大小 (Alt+R)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2040"/>
         <source>Place Note</source>
-        <translation type="unfinished"></translation>
+        <translation>地点备注</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2043"/>
         <location filename="../gui/AppWindow.cpp" line="2045"/>
         <source>Place Note (N)</source>
-        <translation type="unfinished"></translation>
+        <translation>地点注释 (N)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2050"/>
         <source>Draw Line</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制线</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2052"/>
         <location filename="../gui/AppWindow.cpp" line="2054"/>
         <source>Draw Line (L)</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制线 (L)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2059"/>
         <source>Draw Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制矩形</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2061"/>
         <location filename="../gui/AppWindow.cpp" line="2063"/>
         <source>Draw Rectangle (R)</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制矩形 (R)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2068"/>
         <source>Draw Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制椭圆</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2070"/>
         <location filename="../gui/AppWindow.cpp" line="2072"/>
         <source>Draw Ellipse (E)</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制椭圆 (E)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2077"/>
         <source>Draw Freeform</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制自由形状</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2079"/>
         <location filename="../gui/AppWindow.cpp" line="2081"/>
         <source>Draw Freeform (F)</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制自由形状 (F)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2088"/>
         <source>Add Simple PDU</source>
-        <translation type="unfinished"></translation>
+        <translation>添加简单的 PDU</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2090"/>
         <location filename="../gui/AppWindow.cpp" line="2092"/>
         <source>Add Simple PDU (P)</source>
-        <translation type="unfinished"></translation>
+        <translation>添加简单的 PDU (P)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2097"/>
         <source>Add Complex PDU</source>
-        <translation type="unfinished"></translation>
+        <translation>添加复杂的 PDU</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2099"/>
         <location filename="../gui/AppWindow.cpp" line="2101"/>
         <source>Add Complex PDU (C)</source>
-        <translation type="unfinished"></translation>
+        <translation>添加复杂的 PDU (C)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2405"/>
         <location filename="../gui/AppWindow.cpp" line="2518"/>
         <location filename="../gui/AppWindow.cpp" line="2661"/>
         <source>Any unsaved changes will be lost. Do you want to save your network?</source>
-        <translation type="unfinished"></translation>
+        <translation>任何未保存的更改都将丢失。你想保存你的网络吗？</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2406"/>
@@ -13751,7 +13751,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="6564"/>
         <location filename="../gui/AppWindow.cpp" line="6796"/>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;是</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2406"/>
@@ -13760,7 +13760,7 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="4712"/>
         <location filename="../gui/AppWindow.cpp" line="6796"/>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;否</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2406"/>
@@ -13768,202 +13768,203 @@ Port</source>
         <location filename="../gui/AppWindow.cpp" line="2662"/>
         <location filename="../gui/AppWindow.cpp" line="6796"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2708"/>
         <source>%1 File</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2725"/>
         <location filename="../gui/AppWindow.cpp" line="2728"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>打开文件</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3003"/>
         <source>The file was not saved correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>文件未正确保存。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3005"/>
         <source>This file requires more addressable RAM than a 32bit process is allowed to use. Please use the 64bit version of Cisco Packet Tracer to open this file.</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件需要的可寻址 RAM 比允许使用的 32 位进程更多。请使用 Cisco Packet Tracer 的 64 位版本打开此文件。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3009"/>
         <source>Incompatible File -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>不兼容的文件 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3013"/>
         <source>This file requires Cisco Packet Tracer version %1. Your current version is %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件需要 Cisco Packet Tracer 版本 %1。当前版本为 %2。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3017"/>
         <source>Unable to open your temporary folder for writing.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开临时文件夹进行写入。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3080"/>
         <source>    Issued To: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>    颁发给： %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3081"/>
         <source>    Issued By: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>    发布者： %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3082"/>
         <source>    Valid Dates: %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>    有效日期： %1 到 %2</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3084"/>
         <source>    Serial Number: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>    序列号： %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4145"/>
         <source> Activity File (*.pka)</source>
-        <translation type="unfinished"></translation>
+        <translation>活动文件 (*.pka)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4148"/>
         <location filename="../gui/AppWindow.cpp" line="4155"/>
         <source> Activity File (*.pkt)</source>
-        <translation type="unfinished"></translation>
+        <translation>活动文件 (*.pkt)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4152"/>
         <source> Activity File (*.pkac)</source>
-        <translation type="unfinished"></translation>
+        <translation>活动文件 (*.pkac)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4382"/>
         <source> Activity File (*.pkz)</source>
-        <translation type="unfinished"></translation>
+        <translation>活动文件 (*.pkz)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4421"/>
         <source> Activity File (*.pkc)</source>
-        <translation type="unfinished"></translation>
+        <translation>活动文件 (*.pkc)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4567"/>
         <location filename="../gui/AppWindow.cpp" line="5094"/>
         <source>Password? -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>密码？-- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4681"/>
         <location filename="../gui/AppWindow.cpp" line="5103"/>
         <source>Incorrect Password -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>密码不正确 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4710"/>
         <source>Use as the Answer Network? -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>用作应答网络？-- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4970"/>
         <source>Saving Offline Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>保存脱机副本</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4970"/>
         <source>Is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>是不允许的。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6313"/>
         <source>%1 is locked by author&apos;s design for this activity.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 被作者为此活动的设计锁定。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6324"/>
         <source>Interface Locked -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>接口已锁定 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6534"/>
         <source>Update Devices? -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>更新设备？-- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6562"/>
         <source>Update User Apps? -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>更新用户应用程序？-- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6794"/>
         <source>Exit -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>退出 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="7041"/>
         <source>Paste Network Items</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴网络项目</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="7042"/>
         <source>Unable to paste. The source copy is newer than this version of %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法粘贴。源副本比此版本的 %1 新。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="7904"/>
         <source>Activity Finished -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>活动已完成 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="7905"/>
         <source>This activity countdown timer has expired, saving is disallowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>此活动倒数计时器已过期，不允许保存。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="8136"/>
         <source>(These devices are only available in Physical View)</source>
-        <translation type="unfinished"></translation>
+        <translation>(这些设备仅在物理视图中可用)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="8210"/>
         <source> will now save and launch an offline copy of the multiuser networks in 
  another instance of %1. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>现在将保存并启动多用户网络的离线副本
+ %1 的另一个实例。是否要继续？</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="8524"/>
         <source>Database Error -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>数据库错误 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="8671"/>
         <source>Exit Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>退出全屏</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="8683"/>
         <source>Enter Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>进入全屏</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="3118"/>
         <source>The publisher of this file is in the Untrusted Publishers list. Please go to Options-&gt;Preferences and remove it if you want to open this file. The untrusted publisher certificate has the following information.</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件的发布者位于 不受信任的发布者 列表中。请转到 选项-&gt;首选项 并删除它，如果你想打开这个文件。不受信任的发布者证书包含以下信息。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="773"/>
         <source>Save your Packet Tracer file and package external resources with it.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存 Packet Tracer 文件，并将外部资源打包在一起。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="783"/>
         <source>Export this file as a common cartridge package.</source>
-        <translation type="unfinished"></translation>
+        <translation>将此文件导出为 common cartridge 包。</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="791"/>
@@ -13994,7 +13995,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2729"/>
         <source> File (*.pkt *.pkac *.pkc)</source>
-        <translation type="unfinished"> 文件 (*.pkt *.pkac *.pkc)</translation>
+        <translation>文件 (*.pkt *.pkac *.pkc)</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="2875"/>
@@ -27472,127 +27473,127 @@ stamp</source>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="62"/>
         <source>List of device categories</source>
-        <translation type="unfinished"></translation>
+        <translation>设备类别列表</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="176"/>
         <source>Search for device</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索设备</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="474"/>
         <source>(These devices are only available in Physical View)</source>
-        <translation type="unfinished"></translation>
+        <translation>(这些设备仅在物理视图中可用)</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="503"/>
         <source>CDeviceTypesBox</source>
-        <translation type="unfinished"></translation>
+        <translation>设备类型框</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="532"/>
         <source>[Network Devices]</source>
-        <translation type="unfinished"></translation>
+        <translation>[网络设备]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="534"/>
         <source>[Components]</source>
-        <translation type="unfinished"></translation>
+        <translation>[组件]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="536"/>
         <source>[Routers]</source>
-        <translation type="unfinished"></translation>
+        <translation>[路由器]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="538"/>
         <source>[Switches]</source>
-        <translation type="unfinished"></translation>
+        <translation>[交换机]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="540"/>
         <source>[Hubs]</source>
-        <translation type="unfinished"></translation>
+        <translation>[集线器]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="542"/>
         <source>[Wireless Devices]</source>
-        <translation type="unfinished"></translation>
+        <translation>[无线设备]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="544"/>
         <source>[Boards]</source>
-        <translation type="unfinished"></translation>
+        <translation>[板]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="546"/>
         <source>[Connections]</source>
-        <translation type="unfinished"></translation>
+        <translation>[连接]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="548"/>
         <source>[End Devices]</source>
-        <translation type="unfinished"></translation>
+        <translation>[终端设备]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="550"/>
         <source>[Security]</source>
-        <translation type="unfinished"></translation>
+        <translation>[安全]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="552"/>
         <source>[WAN Emulation]</source>
-        <translation type="unfinished"></translation>
+        <translation>[广域网仿真]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="554"/>
         <source>[Multiuser Connection]</source>
-        <translation type="unfinished"></translation>
+        <translation>[多用户连接]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="556"/>
         <source>[Custom Made Devices]</source>
-        <translation type="unfinished"></translation>
+        <translation>[定制设备]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="558"/>
         <source>[Home]</source>
-        <translation type="unfinished"></translation>
+        <translation>[首页]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="560"/>
         <source>[Smart City]</source>
-        <translation type="unfinished"></translation>
+        <translation>[智慧城市]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="562"/>
         <source>[Industrial]</source>
-        <translation type="unfinished"></translation>
+        <translation>[工业]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="564"/>
         <source>[Power Grid]</source>
-        <translation type="unfinished"></translation>
+        <translation>[电网]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="566"/>
         <source>[Actuators]</source>
-        <translation type="unfinished"></translation>
+        <translation>[执行器]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="568"/>
         <source>[Sensors]</source>
-        <translation type="unfinished"></translation>
+        <translation>[传感器]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="570"/>
         <source>[Miscellaneous]</source>
-        <translation type="unfinished"></translation>
+        <translation>[杂项]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="572"/>
         <source>[Structured Cabling]</source>
-        <translation type="unfinished"></translation>
+        <translation>[结构化布线]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="157"/>
@@ -27600,7 +27601,7 @@ stamp</source>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="324"/>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="336"/>
         <source>Multiuser Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>多用户连接</translation>
     </message>
 </context>
 <context>
@@ -55305,167 +55306,167 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="226"/>
         <source>Toggle PDU List Window</source>
-        <translation type="unfinished"></translation>
+        <translation>切换 PDU 列表窗口</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="243"/>
         <source>User Created PDU control window</source>
-        <translation type="unfinished"></translation>
+        <translation>用户创建的 PDU 控制窗口</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="264"/>
         <source>Create a New Scenario (Ctrl+Shift+N)</source>
-        <translation type="unfinished"></translation>
+        <translation>创建新方案(Ctrl+Shift+N)</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="265"/>
         <source>Delete Scenario and All PDUs (Ctrl+Shift+E)</source>
-        <translation type="unfinished"></translation>
+        <translation>删除方案和所有 PDU(Ctrl+Shift+E)</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="266"/>
         <source>Toggle PDU List Window (Ctrl+Shift+O)</source>
-        <translation type="unfinished"></translation>
+        <translation>切换 PDU 列表窗口(Ctrl+Shift+O)</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="267"/>
         <source>Scenario Description (Ctrl+Shift+I)</source>
-        <translation type="unfinished"></translation>
+        <translation>方案描述(Ctrl+Shift+I)</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="269"/>
         <source>Create a New Scenario (Cmd+Shift+N)</source>
-        <translation type="unfinished"></translation>
+        <translation>创建新方案(Cmd+Shift+N)</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="271"/>
         <source>Toggle PDU List Window (Cmd+Shift+O)</source>
-        <translation type="unfinished"></translation>
+        <translation>切换 PDU 列表窗口(Cmd+Shift+O)</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="272"/>
         <source>Scenario Description (Cmd+Shift+I)</source>
-        <translation type="unfinished"></translation>
+        <translation>场景描述(Cmd+Shift+I)</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Fire</source>
-        <translation type="unfinished"></translation>
+        <translation>发送</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Last Status</source>
-        <translation type="unfinished"></translation>
+        <translation>上次状态</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>源</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Destination</source>
-        <translation type="unfinished"></translation>
+        <translation>目的地</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Time(sec)</source>
-        <translation type="unfinished"></translation>
+        <translation>时间(秒)</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Periodic</source>
-        <translation type="unfinished"></translation>
+        <translation>周期</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Num</source>
-        <translation type="unfinished"></translation>
+        <translation>数量</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="285"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="616"/>
         <source>%1 Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 描述：</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="768"/>
         <source>N</source>
-        <translation type="unfinished"></translation>
+        <translation>N</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="773"/>
         <source>Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="785"/>
         <source>In Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>进行中</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="788"/>
         <source>Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>成功</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="791"/>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>失败</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="817"/>
         <source>(edit)</source>
-        <translation type="unfinished"></translation>
+        <translation>(编辑)</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="818"/>
         <source>(delete)</source>
-        <translation type="unfinished"></translation>
+        <translation>(删除)</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="1146"/>
         <source>Incompatible Device -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>不兼容的设备 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="1176"/>
         <source>No Functional Ports -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无正常工作端口 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="1146"/>
         <source>%1 does not have an IP address.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 没有 IP 地址。</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="270"/>
         <source>Delete Scenario and All PDUs (Cmd+Shift+E)</source>
-        <translation type="unfinished"></translation>
+        <translation>删除方案和所有 PDU(Cmd+Shift+E)</translation>
     </message>
     <message>
         <location filename="../gui/UserCreatedPDU/UserCreatedPDU.cpp" line="1176"/>
         <source>%1 has no functional ports.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 没有正常工作的端口。</translation>
     </message>
 </context>
 <context>
@@ -55475,23 +55476,24 @@ Cable Type: %6</source>
         <location filename="../gui/dialogs/options/UserProfileDialog.cpp" line="144"/>
         <location filename="../gui/dialogs/options/UserProfileDialog.cpp" line="165"/>
         <source>Guest is not a valid profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>访客不是有效的配置文件。</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/options/UserProfileDialog.cpp" line="96"/>
         <source>This activity will reset if the user information is changed.
  Change the user information and reset the activity?</source>
-        <translation type="unfinished"></translation>
+        <translation>如果用户信息发生更改，此活动将重置。
+ 更改用户信息并重置活动？</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/options/UserProfileDialog.cpp" line="96"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/options/UserProfileDialog.cpp" line="96"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
 </context>
 <context>
@@ -55644,63 +55646,63 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="143"/>
         <source>This file</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件</translation>
     </message>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="151"/>
         <source>Feature Permission Request</source>
-        <translation type="unfinished"></translation>
+        <translation>功能权限请求</translation>
     </message>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="152"/>
         <source>%1 wants to access the %2 feature. Do you want to allow it?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 想要访问 %2 功能。是否允许它？</translation>
     </message>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="426"/>
         <source>GUI file (%1) not found in project (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>在项目(%2)中找不到图形用户界面文件(%1)。</translation>
     </message>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="541"/>
         <source>Custom Interface (%1) not found in file script module.</source>
-        <translation type="unfinished"></translation>
+        <translation>在文件脚本模块中找不到自定义接口(%1)。</translation>
     </message>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="545"/>
         <source>Custom Interface (%1) not found in script module (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>在脚本模块(%2)中找不到自定义接口(%1)。</translation>
     </message>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="556"/>
         <source>Script module (%1) is disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>脚本模块(%1)已禁用。</translation>
     </message>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="564"/>
         <source>Error starting script module (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>启动脚本模块(%1)时出错。</translation>
     </message>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="1124"/>
         <location filename="../gui/scripting/WebView.cpp" line="1143"/>
         <source>Inspect</source>
-        <translation type="unfinished"></translation>
+        <translation>检查</translation>
     </message>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="1181"/>
         <source>Contextual menu</source>
-        <translation type="unfinished"></translation>
+        <translation>右键菜单</translation>
     </message>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="1251"/>
         <source>Print to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>打印为 PDF</translation>
     </message>
     <message>
         <location filename="../gui/scripting/WebView.cpp" line="1253"/>
         <source>PDF document (*.pdf)</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF 文档 (*.pdf)</translation>
     </message>
 </context>
 <context>
@@ -61609,33 +61611,34 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="110"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;Cisco Packet Tracer &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=“login-sel-color1”&gt;Cisco Packet Tracer&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="139"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;
 &lt;strong&gt;Login is in progress:&lt;/strong&gt; a new window has been opened in your browser. &lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;&lt;em&gt;Please sign in using your Skills For All Credentials.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;
+&lt;strong&gt;登录正在进行中：&lt;/strong&gt;浏览器中已打开一个新窗口。&lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;&lt;em&gt;请使用您的 Skills For All 凭证登录。&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="166"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;If you click &amp;quot;Back&amp;quot;, you will return to the previous screen and need to restart the login process.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span class=&quot;login-sel-color1&quot; style=&quot;font-size:x-large&quot;&gt;如果单击&amp;quot;返回&amp;quot;，您将返回上一个屏幕，需要重新启动登录过程。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="203"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>返回</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Login/loginSkillsforall.ui" line="270"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;By using Cisco Packet Tracer you accept the Terms Of Service (&lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;EULA&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt; &amp;amp; &lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;SEULA&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;) and &lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/privacy.html&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;The Privacy Statement&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;css-login/&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;使用 Cisco Packet Tracer 即表示您接受服务条款(&lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/cloud-and-software/end_user_license_agreement.html&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;EULA&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt; &amp;amp; &lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/dam/en_us/about/doing_business/legal/seula/cisco-packet-tracer-software.pdf&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;SEULA&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;)和&lt;/span&gt;&lt;a href=&quot;https://www.cisco.com/c/en/us/about/legal/privacy.html&quot;&gt;&lt;span class=&quot;login-sel-color2&quot; style=&quot; font-size:11pt; font-weight:600; text-decoration: underline;&quot;&gt;隐私声明&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:11pt;&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
