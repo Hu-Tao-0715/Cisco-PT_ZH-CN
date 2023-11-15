@@ -132,7 +132,7 @@ Please refer to the Activity Wizard help files for more detailed information.</s
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="12288"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="14431"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="3000"/>
@@ -4360,7 +4360,7 @@ Enter a value in the Index Variable text field to use a variable to determine th
     <message>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="39"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="44"/>
@@ -5784,7 +5784,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2987"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2990"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="3005"/>
@@ -5817,7 +5817,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/IoE/BasePhysicalObjectDialog.ui" line="37"/>
         <location filename="../gui/DesignerFiles/IoE/BasePhysicalObjectDialog.ui" line="39"/>
         <source>Name:</source>
-        <translation>名字：</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/BasePhysicalObjectDialog.ui" line="80"/>
@@ -5960,7 +5960,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="56"/>
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="58"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/activity/BaseProficiencyModelPopup.ui" line="66"/>
@@ -6277,7 +6277,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="65"/>
         <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="67"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/activity/BaseWorkProductFeaturePopup.ui" line="75"/>
@@ -11840,7 +11840,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14672"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14964"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8910"/>
@@ -17625,7 +17625,7 @@ Prompt</source>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="3887"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Email&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Email&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;电子邮件&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="4017"/>
@@ -19773,7 +19773,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="29"/>
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="31"/>
         <source>Name:</source>
-        <translation>名字：</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Multiuser/BaseMultiUserOptionsDlg.ui" line="41"/>
@@ -22705,12 +22705,12 @@ Setting&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="28"/>
         <source>Name:</source>
-        <translation>名字：</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="41"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/dialogs/options/BaseUserProfileDialog.ui" line="44"/>
@@ -24920,70 +24920,70 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="13"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>高级</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="23"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="25"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="43"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="45"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>端口</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="56"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="58"/>
         <source>161</source>
-        <translation type="unfinished"></translation>
+        <translation>161</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="63"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="65"/>
         <source>Read Community</source>
-        <translation type="unfinished"></translation>
+        <translation>阅读社区</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="83"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="85"/>
         <source>Write Community</source>
-        <translation type="unfinished"></translation>
+        <translation>写社区</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="103"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="105"/>
         <source>SNMP Version</source>
-        <translation type="unfinished"></translation>
+        <translation>SNMP 版本</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="120"/>
         <source>v1</source>
-        <translation type="unfinished"></translation>
+        <translation>v1</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="125"/>
         <source>v2</source>
-        <translation type="unfinished"></translation>
+        <translation>v2</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="130"/>
         <source>v3</source>
-        <translation type="unfinished"></translation>
+        <translation>v3</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="146"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="148"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="159"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationAdvancedMib.ui" line="161"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -25058,7 +25058,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="524"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="534"/>
@@ -27037,7 +27037,7 @@ Publisher Certificate Information:
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceFileManager.cpp" line="52"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceFileManager.cpp" line="52"/>
@@ -38223,66 +38223,66 @@ See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="158"/>
         <source>Pool Name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>池名称已存在。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="166"/>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="263"/>
         <source>Pool Name Should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>池名称不应为空。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="195"/>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="293"/>
         <source>Enter a valid Number of users. Valid range is 1 to 65535</source>
-        <translation type="unfinished"></translation>
+        <translation>输入有效的用户数。有效范围为 1 到 65535</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="195"/>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="293"/>
         <source>Invalid Number of users -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的用户数 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="213"/>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="310"/>
         <source>Invalid IP address entered for WLC.</source>
-        <translation type="unfinished"></translation>
+        <translation>为 WLC 输入的 IP 地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="228"/>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="325"/>
         <source>Invalid Start IP address entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的起始 IP 地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="243"/>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="340"/>
         <source>Invalid Subnet address entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的子网地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="422"/>
         <source>Select a record to delete.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要删除的记录。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="175"/>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="273"/>
         <source>Invalid IP address entered for DNS Server.</source>
-        <translation type="unfinished"></translation>
+        <translation>为 DNS 服务器输入的 IP 地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="186"/>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="284"/>
         <source>Invalid IP address entered for gateway.</source>
-        <translation type="unfinished"></translation>
+        <translation>为网关输入的 IP 地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="203"/>
         <location filename="../gui/DeviceConfig/Server/ServerDhcp.cpp" line="300"/>
         <source>Invalid IP address entered for TFTP server.</source>
-        <translation type="unfinished"></translation>
+        <translation>为 TFTP 服务器输入的 IP 地址无效。</translation>
     </message>
 </context>
 <context>
@@ -38549,122 +38549,122 @@ See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="68"/>
         <source>Resource Records</source>
-        <translation type="unfinished"></translation>
+        <translation>资源记录</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="81"/>
         <source>DNS Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS 缓存</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="427"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="659"/>
         <source>Name Should not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>名称不应为空。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="456"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="754"/>
         <source>Enter valid Hostname.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入有效的主机名。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="476"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="702"/>
         <source>Invalid IP address entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的 IP 地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="485"/>
         <source>Select the AAAA record for IPv6 address.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择 IPv6 地址的 AAAA 记录。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="545"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="843"/>
         <source>Invalid retryTime -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>重试时间无效 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="606"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="731"/>
         <source>Invalid IPv6 address entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的 IPv6 地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="710"/>
         <source>Please enter an IPv4 address.</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入 IPv4 地址。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="849"/>
         <source>Invalid minimum T T L  -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>最小 T T L -- %1 无效</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="504"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="813"/>
         <source>Enter a valid expiryTime. </source>
-        <translation type="unfinished"></translation>
+        <translation>输入有效的到期时间。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="504"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="813"/>
         <source>Invalid expiryTime -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>过期时间无效 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="515"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="820"/>
         <source>Enter valid primaryServerName.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入有效的主服务器名称。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="525"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="828"/>
         <source>Enter a valid refreshTime. </source>
-        <translation type="unfinished"></translation>
+        <translation>输入有效的刷新时间。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="525"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="828"/>
         <source>Invalid refreshTime -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新时间无效 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="535"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="835"/>
         <source>Enter valid Mailbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入有效的邮箱。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="545"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="843"/>
         <source>Enter a valid retryTime. </source>
-        <translation type="unfinished"></translation>
+        <translation>输入有效的重试时间。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="554"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="849"/>
         <source>Enter a valid minimum TTL.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入有效的最小 TTL。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="554"/>
         <source>Invalid Minimum T T L  -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>最小 T T L -- %1 无效</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="578"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="780"/>
         <source>Enter serverName.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入服务器名称。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="632"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="680"/>
         <source>No DNS Record Selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>未选择 DNS 记录。</translation>
     </message>
 </context>
 <context>
@@ -55766,7 +55766,15 @@ need to save this file with this version of %1.
 Make sure you review and update your scripts to avoid potential problems with 
 this network in the future. Scripts in question belong to a script module with ID:
 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>此文件中的某些脚本保存在早期版本的 %1 中。
+因此，它们可能与您现在使用的版本 %2 不兼容。
+
+为了避免下次打开此网络时出现此警告，您将
+需要使用此版本的 %1 保存此文件。
+
+请务必查看并更新脚本，以避免出现以下潜在问题
+这个网络在未来。有问题的脚本属于 ID 为：
+%3</translation>
     </message>
 </context>
 <context>
@@ -56463,7 +56471,7 @@ End the expression with: &quot;)</source>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="163"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="164"/>
@@ -57233,7 +57241,7 @@ End the expression with: &quot;)</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="66"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="99"/>
@@ -57243,7 +57251,7 @@ End the expression with: &quot;)</source>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="635"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="818"/>
         <source>Allow</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="99"/>
@@ -57251,105 +57259,109 @@ End the expression with: &quot;)</source>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="158"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="498"/>
         <source>Deny</source>
-        <translation type="unfinished"></translation>
+        <translation>拒绝</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="105"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>行动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="105"/>
         <source>Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>协议</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="105"/>
         <source>Remote
 IP</source>
-        <translation type="unfinished"></translation>
+        <translation>远程
+IP</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="105"/>
         <source>Remote
 Wild Card</source>
-        <translation type="unfinished"></translation>
+        <translation>远程
+通配符</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="105"/>
         <source>Remote
 Port</source>
-        <translation type="unfinished"></translation>
+        <translation>远程
+端口</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="105"/>
         <source>Local
 Port</source>
-        <translation type="unfinished"></translation>
+        <translation>本地
+端口</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="304"/>
         <source>No Input -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无输入 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="318"/>
         <source>Invalid IP -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的 IP -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="325"/>
         <source>Invalid Subnet Mask -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的子网掩码 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="345"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="354"/>
         <source>Invalid Remote Port -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的远程端口 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="366"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="375"/>
         <source>Invalid Local Port -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的本地端口 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="546"/>
         <source>Duplicate Firewall Rule -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>重复的防火墙规则 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="304"/>
         <source>Please input an inbound rule.</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入入站规则。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="318"/>
         <source>The IP address is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>IP 地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="325"/>
         <source>The Subnet Mask address is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>子网掩码地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="345"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="354"/>
         <source>Enter a valid Number for Remote Port. Valid range is 1 to 65535. Keyword &quot;any&quot; is supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>为远程端口输入一个有效的号码。有效范围为 1 到 65535。支持关键词“any”。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="366"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="375"/>
         <source>Enter a valid Number for Local Port. Valid range is 1 to 65535. Keyword &quot;any&quot; is supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>为本地端口输入一个有效的号码。有效范围为 1 到 65535。支持关键词“any”。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationFirewall.cpp" line="546"/>
         <source>A Duplicate Firewall Rule is already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>重复的防火墙规则已存在。</translation>
     </message>
 </context>
 <context>
@@ -57357,32 +57369,32 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIPSettings.cpp" line="68"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIPSettings.cpp" line="758"/>
         <source>DHCP failed. APIPA is being used.</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP 失败。正在使用 APIPA。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIPSettings.cpp" line="760"/>
         <source>DHCP request successful.</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP 请求成功。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIPSettings.cpp" line="777"/>
         <source>Ipv6 request successful.</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 请求成功。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIPSettings.cpp" line="779"/>
         <source>Ipv6 request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 请求失败。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIPSettings.cpp" line="756"/>
         <source>DHCP request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP 请求失败。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIPSettings.cpp" line="620"/>
@@ -57613,92 +57625,92 @@ Port</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="13"/>
         <source>SNMP Set</source>
-        <translation type="unfinished"></translation>
+        <translation>SNMP 设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="23"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="25"/>
         <source>OID</source>
-        <translation type="unfinished"></translation>
+        <translation>OID</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="43"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="45"/>
         <source>Data Type</source>
-        <translation type="unfinished"></translation>
+        <translation>数据类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="57"/>
         <source>BITS</source>
-        <translation type="unfinished"></translation>
+        <translation>BITS</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="62"/>
         <source>Counter32</source>
-        <translation type="unfinished"></translation>
+        <translation>Counter32</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="67"/>
         <source>Counter64</source>
-        <translation type="unfinished"></translation>
+        <translation>Counter64</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="72"/>
         <source>Gauge</source>
-        <translation type="unfinished"></translation>
+        <translation>Gauge</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="77"/>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Integer</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="82"/>
         <source>Integer32</source>
-        <translation type="unfinished"></translation>
+        <translation>Integer32</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="87"/>
         <source>IpAddress</source>
-        <translation type="unfinished"></translation>
+        <translation>IpAddress</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="92"/>
         <source>OctetString</source>
-        <translation type="unfinished"></translation>
+        <translation>OctetString</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="97"/>
         <source>TimeTicks</source>
-        <translation type="unfinished"></translation>
+        <translation>TimeTicks</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="102"/>
         <source>TruthValue</source>
-        <translation type="unfinished"></translation>
+        <translation>TruthValue</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="107"/>
         <source>UnsignedInterger</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedInterger</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="115"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="117"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Value</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="147"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="149"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="160"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBSet.ui" line="162"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -57804,47 +57816,47 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailConfiguration.cpp" line="105"/>
         <source>Invalid email address entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的电子邮件地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailConfiguration.cpp" line="121"/>
         <source>Invalid incoming mail server entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的接收邮件服务器无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailConfiguration.cpp" line="137"/>
         <source>Invalid outgoing mail server entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的发送邮件服务器无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailConfiguration.cpp" line="152"/>
         <source>Please fill in the name.</source>
-        <translation type="unfinished"></translation>
+        <translation>请填写姓名。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailConfiguration.cpp" line="161"/>
         <source>Please fill in the email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>请填写电子邮件地址。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailConfiguration.cpp" line="172"/>
         <source>Please fill in the incoming mail server.</source>
-        <translation type="unfinished"></translation>
+        <translation>请填写接收邮件服务器。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailConfiguration.cpp" line="181"/>
         <source>Please fill in the outgoing mail server.</source>
-        <translation type="unfinished"></translation>
+        <translation>请填写发送邮件服务器。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailConfiguration.cpp" line="190"/>
         <source>Please fill in the user name.</source>
-        <translation type="unfinished"></translation>
+        <translation>请填写用户名。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMailConfiguration.cpp" line="199"/>
         <source>Please fill in the password.</source>
-        <translation type="unfinished"></translation>
+        <translation>请填写密码。</translation>
     </message>
 </context>
 <context>
@@ -57852,12 +57864,12 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="146"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="361"/>
         <source>SNMP command no results</source>
-        <translation type="unfinished"></translation>
+        <translation>SNMP 命令无结果</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="387"/>
@@ -57879,130 +57891,130 @@ Port</source>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="550"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="554"/>
         <source>SNMP command Error</source>
-        <translation type="unfinished"></translation>
+        <translation>SNMP 命令错误</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="685"/>
         <source>router_std MIBs</source>
-        <translation type="unfinished"></translation>
+        <translation>router_std MIBs</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="697"/>
         <source>router_advip MIBs</source>
-        <translation type="unfinished"></translation>
+        <translation>router_advip MIBs</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="708"/>
         <source>switch_L2 MIBs</source>
-        <translation type="unfinished"></translation>
+        <translation>switch_L2 MIBs</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="719"/>
         <source>switch_multiLayer MIBs</source>
-        <translation type="unfinished"></translation>
+        <translation>switch_multiLayer MIBs</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="108"/>
         <source>Name :</source>
-        <translation type="unfinished"></translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="80"/>
         <source>Name/OID</source>
-        <translation type="unfinished"></translation>
+        <translation>名称/OID</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="80"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>值</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="80"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="111"/>
         <source>OID :</source>
-        <translation type="unfinished"></translation>
+        <translation>OID ：</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="114"/>
         <source>Syntax :</source>
-        <translation type="unfinished"></translation>
+        <translation>语法：</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="117"/>
         <source>Access :</source>
-        <translation type="unfinished"></translation>
+        <translation>访问：</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="120"/>
         <source>Description :</source>
-        <translation type="unfinished"></translation>
+        <translation>描述：</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="361"/>
         <source>SNMP Command no results found on IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>SNMP 命令在 IP 上未找到结果：</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="387"/>
         <source>SNMP Command Error </source>
-        <translation type="unfinished"></translation>
+        <translation>SNMP 命令错误</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="423"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="476"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="531"/>
         <source>Cannot perform SNMP query for invalid OID.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法对无效的 OID 执行 SNMP 查询。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="429"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="482"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="537"/>
         <source>Invalid IP address.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的 IP 地址。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="434"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="487"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="542"/>
         <source>OID input cannot be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>OID 输入不能为空。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="438"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="491"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="546"/>
         <source>IP Address cannot be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>IP 地址不能为空。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="442"/>
         <source>Read Community cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>读取社区不能为空</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="495"/>
         <source>Read Community cannot be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>读取社区不能为空。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="506"/>
         <source>Version 1 does not support getbulk.</source>
-        <translation type="unfinished"></translation>
+        <translation>版本 1 不支持 getbulk。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="550"/>
         <source>Write Community cannot be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>写入社区不能为空。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="554"/>
         <source>Value for set dialog cannot be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置对话框的值不能为空。</translation>
     </message>
 </context>
 <context>
@@ -58045,41 +58057,41 @@ Flow information:
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="138"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="267"/>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>成功</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="138"/>
         <source>PPPoE Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>PPPoE 断开连接</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="139"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="247"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="257"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="154"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="154"/>
         <source>The fields are empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>字段为空。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="121"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="171"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="227"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>断开</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationPCDialer.cpp" line="274"/>
         <source>Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>失败</translation>
     </message>
 </context>
 <context>
@@ -60564,12 +60576,12 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="132"/>
         <source>Name &amp; ID</source>
-        <translation>名字&amp; ID</translation>
+        <translation>名称 &amp; ID</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="142"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/ProjectMonitor.ui" line="147"/>
@@ -61257,7 +61269,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="550"/>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="553"/>
         <source>Name:</source>
-        <translation>名字：</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="566"/>
@@ -62012,7 +62024,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="104"/>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="151"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="90"/>
@@ -62104,7 +62116,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="68"/>
         <location filename="../gui/DesignerFiles/WlcWlans.ui" line="52"/>
         <source>Name</source>
-        <translation>名字</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="85"/>
@@ -62596,7 +62608,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/main.cpp" line="1586"/>
         <location filename="../gui/main.cpp" line="1731"/>
         <source>    Name: </source>
-        <translation>    名字： </translation>
+        <translation>    名称： </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="893"/>
