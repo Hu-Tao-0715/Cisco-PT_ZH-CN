@@ -20931,30 +20931,30 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="52"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="60"/>
         <source>RIP Routing</source>
-        <translation type="unfinished"></translation>
+        <translation>动态路由</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="98"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="103"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>网络</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="162"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="164"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="220"/>
         <source>Network Address</source>
-        <translation type="unfinished"></translation>
+        <translation>网络地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="255"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterRipCfg.ui" line="257"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -20963,48 +20963,48 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="34"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="36"/>
         <source>Static Routes</source>
-        <translation type="unfinished"></translation>
+        <translation>静态路由</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="91"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="93"/>
         <source>Default Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>默认网关</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="58"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="60"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>网络</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="13"/>
         <source>CBaseRouterStaticCfg</source>
-        <translation type="unfinished"></translation>
+        <translation>基本路由器静态配置文件</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="84"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="86"/>
         <source>Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>掩码</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="65"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="67"/>
         <source>Next Hop</source>
-        <translation type="unfinished"></translation>
+        <translation>下一跃点</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="115"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="117"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="186"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="188"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -25770,26 +25770,26 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="26"/>
         <source>Cisco Device VLAN Config</source>
-        <translation type="unfinished"></translation>
+        <translation>Cisco 设备 VLAN 配置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="71"/>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="74"/>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="80"/>
         <source>VLAN Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>VLAN 配置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="145"/>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="148"/>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="151"/>
         <source>VLAN Number</source>
-        <translation type="unfinished"></translation>
+        <translation>VLAN 编号</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="262"/>
         <source>VLAN No</source>
-        <translation type="unfinished"></translation>
+        <translation>VLAN 编号</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="267"/>
@@ -25797,21 +25797,21 @@ Please wait until it is finished.</source>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="397"/>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="400"/>
         <source>VLAN Name</source>
-        <translation type="unfinished"></translation>
+        <translation>VLAN 名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="301"/>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="304"/>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="307"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="339"/>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="342"/>
         <location filename="../gui/DesignerFiles/Switching/switchVlanconfig.ui" line="345"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -28744,48 +28744,48 @@ and all previous settings will be erased.</source>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="1584"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6143"/>
         <source>Do you want to delete the selected item?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否要删除所选项目？</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="1615"/>
         <source>Confirm Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>确认删除</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="1614"/>
         <source>Do you want to uncluster the %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否要取消群集 %1？</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="1615"/>
         <source>Uncluster</source>
-        <translation type="unfinished"></translation>
+        <translation>取消群集</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="410"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="1615"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="4707"/>
         <source>Multiuser connections can&apos;t be recabled.  You must delete and recreate.</source>
-        <translation type="unfinished"></translation>
+        <translation>多用户连接无法重新布线。 您必须删除并重新创建。</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="4707"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="686"/>
         <source>Create BendPoint</source>
-        <translation type="unfinished"></translation>
+        <translation>创建弯曲点</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="690"/>
         <source>Color Cable</source>
-        <translation type="unfinished"></translation>
+        <translation>彩色电缆</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="1587"/>
@@ -28793,12 +28793,12 @@ and all previous settings will be erased.</source>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5499"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6144"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;取消</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5499"/>
         <source>&amp;Uncluster</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;取消群集</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="1587"/>
@@ -28806,34 +28806,34 @@ and all previous settings will be erased.</source>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5499"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6144"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;删除</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="407"/>
         <source>Inspect Front</source>
-        <translation type="unfinished"></translation>
+        <translation>检查正面</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="408"/>
         <source>Inspect Rear</source>
-        <translation type="unfinished"></translation>
+        <translation>检查后部</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="409"/>
         <source>Interact</source>
-        <translation type="unfinished"></translation>
+        <translation>交互</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="1575"/>
         <source>Do you want to delete the %1 selected items?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否要删除 %1 个选定项目？</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="1582"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5494"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5499"/>
         <source>Do you want to delete %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否要删除 %1？</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="1587"/>
@@ -28841,63 +28841,63 @@ and all previous settings will be erased.</source>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5499"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6144"/>
         <source>Confirm Delete -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>确认删除 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5889"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5920"/>
         <source>UnGroup Cable from </source>
-        <translation type="unfinished"></translation>
+        <translation>取消对电缆的分组</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5891"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5922"/>
         <source> to </source>
-        <translation type="unfinished"></translation>
+        <translation>到</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6129"/>
         <source>Cannot Delete Working Closet -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法删除工作机柜 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6502"/>
         <source>The cable cannot be connected to another Multiuser.</source>
-        <translation type="unfinished"></translation>
+        <translation>电缆不能连接到另一个多用户。</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="9766"/>
         <source>Networking devices cannot be connected to a punchdown port.</source>
-        <translation type="unfinished"></translation>
+        <translation>网络设备无法连接到打孔端口。</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="9776"/>
         <source>Only straight through cables are allowed for horizontal cabling.</source>
-        <translation type="unfinished"></translation>
+        <translation>水平布线只允许使用直通电缆。</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5897"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="5904"/>
         <source>UnGroup All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部取消分组</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6130"/>
         <source>Deleting the current working closet is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>不允许删除当前工作壁橱。</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6281"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6373"/>
         <source>Auto-connection is only applicable to devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>自动连接仅适用于设备。</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6368"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6477"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6590"/>
         <source>The cable cannot be connected to that port.</source>
-        <translation type="unfinished"></translation>
+        <translation>电缆无法连接到该端口。</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="6368"/>
@@ -28907,7 +28907,7 @@ and all previous settings will be erased.</source>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="9766"/>
         <location filename="../gui/Workspace/Physical/GeoView.cpp" line="9776"/>
         <source>Connection Error</source>
-        <translation type="unfinished"></translation>
+        <translation>连接错误</translation>
     </message>
 </context>
 <context>
@@ -31092,19 +31092,19 @@ reset activity?</source>
     <message>
         <location filename="../gui/DesignerFiles/IoX/IoxProjectOpen.ui" line="13"/>
         <source>Project Name</source>
-        <translation type="unfinished"></translation>
+        <translation>项目名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoX/IoxProjectOpen.ui" line="76"/>
         <location filename="../gui/DesignerFiles/IoX/IoxProjectOpen.ui" line="78"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>打开</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoX/IoxProjectOpen.ui" line="83"/>
         <location filename="../gui/DesignerFiles/IoX/IoxProjectOpen.ui" line="85"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -37248,18 +37248,18 @@ Please wait until it is finished.</source>
         <location filename="../gui/DeviceConfig/Router/RouterRipCfg.cpp" line="65"/>
         <location filename="../gui/DeviceConfig/Router/RouterRipCfg.cpp" line="251"/>
         <source>Network Address</source>
-        <translation type="unfinished"></translation>
+        <translation>网络地址</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterRipCfg.cpp" line="122"/>
         <location filename="../gui/DeviceConfig/Router/RouterRipCfg.cpp" line="164"/>
         <source>Invalid network address entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的网络地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterRipCfg.cpp" line="183"/>
         <source>Invalid IP address entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的 IP 地址无效。</translation>
     </message>
 </context>
 <context>
@@ -37432,22 +37432,22 @@ Please wait until it is finished.</source>
         <location filename="../gui/DeviceConfig/Router/RouterStaticCfg.cpp" line="64"/>
         <location filename="../gui/DeviceConfig/Router/RouterStaticCfg.cpp" line="243"/>
         <source>Network Address</source>
-        <translation type="unfinished"></translation>
+        <translation>网络地址</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterStaticCfg.cpp" line="150"/>
         <source>Invalid destination network address.</source>
-        <translation type="unfinished"></translation>
+        <translation>目标网络地址无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterStaticCfg.cpp" line="159"/>
         <source>Invalid subnet mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>子网掩码无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterStaticCfg.cpp" line="168"/>
         <source>Invalid next hop IP address.</source>
-        <translation type="unfinished"></translation>
+        <translation>下一跃点 IP 地址无效。</translation>
     </message>
 </context>
 <context>
@@ -44491,52 +44491,52 @@ Click Cancel to stop waiting and save with current replied data.</source>
         <location filename="../gui/CTranslationDB.cpp" line="210"/>
         <location filename="../gui/CTranslationDB.cpp" line="2231"/>
         <source>IoT</source>
-        <translation type="unfinished"></translation>
+        <translation>物联网</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="209"/>
         <source>MCU</source>
-        <translation type="unfinished"></translation>
+        <translation>微处理器</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="211"/>
         <source>SBC</source>
-        <translation type="unfinished"></translation>
+        <translation>SBC</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="212"/>
         <source>Thing</source>
-        <translation type="unfinished"></translation>
+        <translation>事</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="216"/>
         <source>Wireless LAN Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>无线局域网控制器</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="217"/>
         <source>Light Weight Access Point</source>
-        <translation type="unfinished"></translation>
+        <translation>轻量级接入点</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="218"/>
         <source>Security Appliance</source>
-        <translation type="unfinished"></translation>
+        <translation>安全设备</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="219"/>
         <source>Meraki Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Meraki 服务器</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="220"/>
         <source>PT-Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>PT-控制器</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="241"/>
         <source>Internet Access Restricted</source>
-        <translation type="unfinished"></translation>
+        <translation>互联网访问受限</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="244"/>
@@ -44737,7 +44737,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="511"/>
         <source>Network Address</source>
-        <translation type="unfinished"></translation>
+        <translation>网络地址</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="513"/>
@@ -49850,17 +49850,17 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="88"/>
         <source>The dual-serial port WAN interface cards (WICs) feature Cisco`s new, compact, high-density Smart Serial connector to support a wide variety of electrical interfaces when used with the appropriate transition cable. Two cables are required to support the two ports on the WIC. Each port on a WIC is a different physical interface and can support different protocols such as Point-to-Point protocol (PPP) or Frame Relay and Data Terminal Equipment/Data Communications Equipment (DTE/DCE).</source>
-        <translation type="unfinished"></translation>
+        <translation>双串行端口广域网接口卡(WIC)采用思科新型紧凑、高密度智能串行连接器，在与适当的过渡电缆一起使用时支持各种电气接口。需要两根电缆来支持 WIC 上的两个端口。WIC 上的每个端口都是不同的物理接口，可以支持不同的协议，例如点对点协议(PPP)或帧中继和数据终端设备/数据通信设备(DTE/DCE)。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="99"/>
         <source>The ASA cover plate provides protection for the internal electronic components. It also helps maintain adequate cooling by normalizing airflow.</source>
-        <translation type="unfinished"></translation>
+        <translation>ASA 盖板为内部电子元件提供保护。它还有助于通过使气流正常化来保持足够的冷却。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="102"/>
         <source>The Cisco ASA power adapter</source>
-        <translation type="unfinished"></translation>
+        <translation>Cisco ASA 电源适配器</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="108"/>
@@ -49961,7 +49961,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="308"/>
         <source>Service Policy List</source>
-        <translation type="unfinished"></translation>
+        <translation>服务策略列表</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="310"/>
@@ -52581,7 +52581,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3097"/>
         <source>The packet indicates a new symmetric passive association.  It is mobilized in the same version as in the packet. Authentication fails, send a crypto - NAK packet.</source>
-        <translation type="unfinished"></translation>
+        <translation>数据包指示新的对称被动关联。 它以与数据包中相同的版本进行动员。身份验证失败，发送加密 - NAK 数据包。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3098"/>
@@ -53049,37 +53049,37 @@ If the value of the ipRouteDest is 0.0.0.0 (a default route), then the mask valu
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="103"/>
         <source>The [[MODULE_NAME]] module is a High-Speed WAN Interface Card providing integrated Access Point functionality in the Cisco 1800 (Modular), Cisco 2800, and Cisco 3800 Integrated Services Routers. It supports Single Band 802.11b/g or Dual Band 802.11a/b/g radios.</source>
-        <translation type="unfinished"></translation>
+        <translation>[[MODULE_NAME]] 模块是一种高速广域网接口卡，在 Cisco 1800(模块化)、Cisco 2800 和 Cisco 3800 集成多业务路由器中提供集成接入点功能。它支持单频 802.11b/g 或双频 802.11a/b/g 无线电。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="191"/>
         <source>Coaxial Splitter</source>
-        <translation type="unfinished"></translation>
+        <translation>同轴分路器</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="201"/>
         <source>TV</source>
-        <translation type="unfinished"></translation>
+        <translation>TV</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="202"/>
         <source>Tablet PC</source>
-        <translation type="unfinished"></translation>
+        <translation>平板电脑</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="204"/>
         <source>Wireless End Device</source>
-        <translation type="unfinished"></translation>
+        <translation>无线终端设备</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="205"/>
         <source>Wired End Device</source>
-        <translation type="unfinished"></translation>
+        <translation>有线终端设备</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="206"/>
         <source>Home VoIP</source>
-        <translation type="unfinished"></translation>
+        <translation>家庭 VoIP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="207"/>
