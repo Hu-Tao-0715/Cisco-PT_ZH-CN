@@ -17,12 +17,11 @@
 8.2.1免登录补丁：进入“\Cisco PT安装位置\bin”，备份原文件后替换<br>
 汉化：将“___CN.ptl”文件放入“\Cisco PT安装位置\languages”中<br>
 &emsp;&emsp;&emsp;启动Cisco PT，打开Options>Preferences...,在Select Language栏选中“___CN.ptl”<br>
-&emsp;&emsp;&emsp;点击CHange Language按钮后重启Cisco PT
+&emsp;&emsp;&emsp;点击Change Language按钮后重启Cisco PT
 
 ## 错误报告
 
 若有翻译错误，请于Issues栏留言。
-
 
 ## 许可证
 
