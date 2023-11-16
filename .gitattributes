@@ -1,3 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-Packet_Tracer821_64bit_setup_signed.exe filter=lfs diff=lfs merge=lfs -text
