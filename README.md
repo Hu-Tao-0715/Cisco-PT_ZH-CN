@@ -5,7 +5,7 @@
 
 针对大多数学校机房中安装的Cisco PT 6.2sv和官网最新的8.2.1版本制作的汉化包
 以及8.2.1版本的免登录补丁
-注：.ts文件为<pre>QT Linguist</pre>编辑用源文件
+注：.ts文件为QT&nbsp;Linguist编辑用源文件
 
 ## 下载
 
