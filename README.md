@@ -1,6 +1,3 @@
-![](docs/images/logo.png)
-
-[![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=totalString&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftopjohnwu%2Fmagisk-files%2Fcount%2Fcount.json&cacheSeconds=1800)](https://raw.githubusercontent.com/topjohnwu/magisk-files/count/count.json)
 
 #### 这不是Cisco官方发布的汉化补丁
 
@@ -10,20 +7,18 @@
 以及8.2.1版本的免登录补丁
 
 - languages: Cisco PT 的语言包文件夹
-- help: Cisco PT 的帮助文件夹
-
 
 ## 下载
 
-本汉化包仅在[Github](https://github.com/Hu-Tao-0715/Cisco-PT_ZH-CN/)上发布.
+此内容仅在[Github](https://github.com/Hu-Tao-0715/Cisco-PT_ZH-CN/)上发布.
 
-[![](https://img.shields.io/badge/Magisk-v26.4-blue)](https://github.com/Hu-Tao-0715/Cisco-PT_ZH-CN/releases/tag/v0.52%2Fv0.21)
+[![](https://img.shields.io/badge/Cisco PT Package-v0.52-blue)](https://github.com/Hu-Tao-0715/Cisco-PT_ZH-CN/releases/tag/v0.52%2Fv0.21)
 
 ## 安装
 
-Cisco PT 原版：<br>
-For Magisk issues, upload boot logcat or dmesg.<br>
-For Magisk app crashes, record and upload the logcat when the crash occurs.
+原版：直接运行EXE安装。
+8.2.1免登录补丁：进入“\Cisco PT安装位置\bin”，备份原文件后替换即可。
+汉化：将“___CN.ptl”文件放入“\Cisco PT安装位置\languages”中，启动Cisco PT，打开“Options>Preferences...”,在“Select Language”栏中选中“___CN.ptl”，点击“CHange Language”按钮后重启Cisco PT即可。
 
 ## 错误报告
 
