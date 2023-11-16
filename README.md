@@ -10,15 +10,13 @@
 
 ## 下载
 
-此内容仅在[Github](https://github.com/Hu-Tao-0715/Cisco-PT_ZH-CN/)上发布.
-
-[![](https://img.shields.io/badge/Cisco PT Package-v0.52-blue)](https://github.com/Hu-Tao-0715/Cisco-PT_ZH-CN/releases/tag/v0.52%2Fv0.21)
+此内容仅在[Github](https://github.com/Hu-Tao-0715/Cisco-PT_ZH-CN/releases)上发布.
 
 ## 安装
 
-原版：直接运行EXE安装。
-8.2.1免登录补丁：进入“\Cisco PT安装位置\bin”，备份原文件后替换即可。
-汉化：将“___CN.ptl”文件放入“\Cisco PT安装位置\languages”中，启动Cisco PT，打开“Options>Preferences...”,在“Select Language”栏中选中“___CN.ptl”，点击“CHange Language”按钮后重启Cisco PT即可。
+原版：直接运行EXE安装。<br>
+8.2.1免登录补丁：进入“\Cisco PT安装位置\bin”，备份原文件后替换即可。<br>
+汉化：将“___CN.ptl”文件放入“\Cisco PT安装位置\languages”中<br>启动Cisco PT，打开“Options>Preferences...”,在“Select Language”栏中选中“___CN.ptl”，点击“CHange Language”按钮后重启Cisco PT即可。
 
 ## 错误报告
 
