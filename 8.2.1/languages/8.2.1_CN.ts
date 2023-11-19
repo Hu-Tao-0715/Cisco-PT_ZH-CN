@@ -21250,37 +21250,37 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="13"/>
         <source>Pkz-Select Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pkz-Select 文件</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="40"/>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="42"/>
         <source>Add file(s) to Pkz</source>
-        <translation type="unfinished"></translation>
+        <translation>将文件添加到 Pkz</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="80"/>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="82"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="100"/>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="102"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="137"/>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="139"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="144"/>
         <location filename="../gui/DesignerFiles/BaseSelectPkzFilesDlg.ui" line="146"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -21288,12 +21288,12 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="14"/>
         <source>Set Background Image</source>
-        <translation type="unfinished"></translation>
+        <translation>设置背景图片</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="24"/>
         <source>Background Image</source>
-        <translation type="unfinished"></translation>
+        <translation>背景图片</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="64"/>
@@ -21306,19 +21306,19 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="833"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="836"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="237"/>
         <source>Image Options</source>
-        <translation type="unfinished"></translation>
+        <translation>图像选项</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="252"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="255"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="258"/>
         <source>Use Original Image</source>
-        <translation type="unfinished"></translation>
+        <translation>使用原始图像</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="45"/>
@@ -21331,120 +21331,120 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="820"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="823"/>
         <source>Click Browse to select an image.</source>
-        <translation type="unfinished"></translation>
+        <translation>单击浏览以选择图像。</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="277"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="280"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="283"/>
         <source>Display Tiled Background Image</source>
-        <translation type="unfinished"></translation>
+        <translation>显示平铺背景图像</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="296"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="299"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="302"/>
         <source>Resize to Fit Current View</source>
-        <translation type="unfinished"></translation>
+        <translation>调整大小以适合当前视图</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="320"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="323"/>
         <source>Custom Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>定制尺寸：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="410"/>
         <source>Physical Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>物理特性</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="419"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="422"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="425"/>
         <source>Size of container in meters:</source>
-        <translation type="unfinished"></translation>
+        <translation>容器尺寸(米)：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="432"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="435"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="438"/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>宽度：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="445"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="448"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="451"/>
         <source>Length:</source>
-        <translation type="unfinished"></translation>
+        <translation>长度：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="471"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="474"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="477"/>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>高度：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="555"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="558"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="561"/>
         <source>Scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>规模：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="513"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="516"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="519"/>
         <source>meters/pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>米/像素</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="84"/>
         <source>Visual Dimensions</source>
-        <translation type="unfinished"></translation>
+        <translation>视觉尺寸</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="102"/>
         <source>Image:</source>
-        <translation type="unfinished"></translation>
+        <translation>图像：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="139"/>
         <source>View:</source>
-        <translation type="unfinished"></translation>
+        <translation>视图：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="176"/>
         <source>Recommended Image:</source>
-        <translation type="unfinished"></translation>
+        <translation>推荐图片：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="326"/>
         <source>Custom Width</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义宽度</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="366"/>
         <source>Custom Height</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义高度</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="568"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="571"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>体积</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="574"/>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>体积：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="594"/>
         <source>cubic meters</source>
-        <translation type="unfinished"></translation>
+        <translation>立方米</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="625"/>
@@ -21457,7 +21457,7 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="885"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="888"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>重置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="644"/>
@@ -21470,17 +21470,17 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="904"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="907"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>应用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="660"/>
         <source>Cluster Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>集群图标</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseSetBGImageDlg.ui" line="790"/>
         <source>Container Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>容器图标</translation>
     </message>
 </context>
 <context>
@@ -22405,68 +22405,68 @@ Setting&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="20"/>
         <source>CBaseSimulationToolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>基础模拟工具栏</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="69"/>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="72"/>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="75"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>时间</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="84"/>
         <source>Time: 0:0:00</source>
-        <translation type="unfinished"></translation>
+        <translation>时间： 0:0:00</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="106"/>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="109"/>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="112"/>
         <source>Power Cycle Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>重启电源设备</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="115"/>
         <source>Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="137"/>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="140"/>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="143"/>
         <source>PLAY CONTROLS:</source>
-        <translation type="unfinished"></translation>
+        <translation>播放控制：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="168"/>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="171"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>返回</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="196"/>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="199"/>
         <source>Auto Capture / Play</source>
-        <translation type="unfinished"></translation>
+        <translation>自动捕获/播放</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="227"/>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="230"/>
         <source>Capture / Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>捕获/转发</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="277"/>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="280"/>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="283"/>
         <source>Event List</source>
-        <translation type="unfinished"></translation>
+        <translation>事件列表</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Switches/BaseSimulationToolbar.ui" line="274"/>
         <source>Show/Hide Simulation Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>显示/隐藏模拟面板</translation>
     </message>
 </context>
 <context>
@@ -22474,19 +22474,19 @@ Setting&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseTableCellIPEdit.ui" line="13"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseTableCellIPEdit.ui" line="50"/>
         <location filename="../gui/DesignerFiles/Routing/BaseTableCellIPEdit.ui" line="52"/>
         <source>100</source>
-        <translation type="unfinished"></translation>
+        <translation>100</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseTableCellIPEdit.ui" line="31"/>
         <location filename="../gui/DesignerFiles/Routing/BaseTableCellIPEdit.ui" line="33"/>
         <source>192.168.100.</source>
-        <translation type="unfinished"></translation>
+        <translation>192.168.100.</translation>
     </message>
 </context>
 <context>
@@ -22494,7 +22494,7 @@ Setting&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseTableCellLineEdit.ui" line="13"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
 </context>
 <context>
@@ -24408,42 +24408,42 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="234"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="237"/>
         <source>Wireless Security</source>
-        <translation type="unfinished"></translation>
+        <translation>无线安全</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="243"/>
         <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Wireless Security&lt;/b&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;无线安全&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="501"/>
         <source>Wireless Media Bridge</source>
-        <translation type="unfinished"></translation>
+        <translation>无线媒体桥接器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="534"/>
         <source>Network Name (SSID): </source>
-        <translation type="unfinished"></translation>
+        <translation>网络名称 (SSID)：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="719"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="722"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="725"/>
         <source>Save Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>保存设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="747"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="750"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="753"/>
         <source>Cancel Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>取消更改</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="934"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="937"/>
         <source>Help...</source>
-        <translation type="unfinished"></translation>
+        <translation>帮助...</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="952"/>
@@ -24452,7 +24452,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -41036,7 +41040,7 @@ Reset the network?</source>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="172"/>
         <source>Capture the Forward</source>
-        <translation>捕捉前方</translation>
+        <translation>捕捉转发</translation>
     </message>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="173"/>
