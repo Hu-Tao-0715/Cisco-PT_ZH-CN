@@ -55614,46 +55614,46 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="14"/>
         <source>DHCP Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP 配置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="31"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="34"/>
         <source>DHCP</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="37"/>
         <source>&lt;p align=&quot;center&quot;&gt;DHCP&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p align=&quot;center&quot;&gt;DHCP&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="75"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="78"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="81"/>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>接口</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="114"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="117"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="120"/>
         <source>Service</source>
-        <translation type="unfinished"></translation>
+        <translation>服务</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="142"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="145"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="148"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>开</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="167"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="170"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="173"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>关</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="198"/>
@@ -55661,7 +55661,7 @@ Cable Type: %6</source>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="204"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="664"/>
         <source>Pool Name</source>
-        <translation type="unfinished"></translation>
+        <translation>池名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="237"/>
@@ -55669,7 +55669,7 @@ Cable Type: %6</source>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="243"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="669"/>
         <source>Default Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>默认网关</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="276"/>
@@ -55677,81 +55677,81 @@ Cable Type: %6</source>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="282"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="674"/>
         <source>DNS Server</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS 服务器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="315"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="318"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="321"/>
         <source>Start IP Address :</source>
-        <translation type="unfinished"></translation>
+        <translation>起始 IP 地址：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="399"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="402"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="405"/>
         <source>Subnet Mask:</source>
-        <translation type="unfinished"></translation>
+        <translation>子网掩码：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="477"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="480"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="483"/>
         <source>Maximum Number of Users :</source>
-        <translation type="unfinished"></translation>
+        <translation>最大用户数：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="513"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="516"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="519"/>
         <source>TFTP Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>TFTP 服务器：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="555"/>
         <source>WLC Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>WLC 地址：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="582"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="585"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="588"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="601"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="604"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="607"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="620"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="623"/>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="626"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="679"/>
         <source>Start IP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>起始 IP 地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="684"/>
         <source>Subnet Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>子网掩码</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="689"/>
         <source>TFTP Server</source>
-        <translation type="unfinished"></translation>
+        <translation>TFTP 服务器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="694"/>
         <source>WLC Address</source>
-        <translation type="unfinished"></translation>
+        <translation>WLC 地址</translation>
     </message>
 </context>
 <context>
@@ -56183,139 +56183,139 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="56"/>
         <source>Mixed</source>
-        <translation type="unfinished"></translation>
+        <translation>混合</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="57"/>
         <source>BG-Mixed</source>
-        <translation type="unfinished"></translation>
+        <translation>BG-混合</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="58"/>
         <source>Wireless-G Only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅限 Wireless-G</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="59"/>
         <source>Wireless-B Only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅限 Wireless-B</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="60"/>
         <source>Wireless-N Only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅限 Wireless-N</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="61"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="64"/>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="334"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="65"/>
         <source>Standard - 20MHz Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>标准 - 20MHz 信道</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="66"/>
         <source>Wide - 40MHz Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>宽 - 40MHz 信道</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="128"/>
         <source>1 - 2.412GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>1 - 2.412GHz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="129"/>
         <source>2 - 2.417GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>2 - 2.417GHz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="130"/>
         <source>3 - 2.422GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>3 - 2.422GHz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="131"/>
         <source>4 - 2.427GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>4 - 2.427GHz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="132"/>
         <source>5 - 2.432GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>5 - 2.432GHz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="133"/>
         <source>6 - 2.437GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>6 - 2.437GHz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="134"/>
         <source>7 - 2.442GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>7 - 2.442GHz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="135"/>
         <source>8 - 2.447GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>8 - 2.447GHz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="136"/>
         <source>9 - 2.452GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>9 - 2.452GHz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="137"/>
         <source>10 - 2.457GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>10 - 2.457GHz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="138"/>
         <source>11 - 2.462GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>11 - 2.462GHz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="341"/>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="348"/>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="349"/>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="350"/>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="351"/>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="352"/>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="353"/>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="354"/>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
 </context>
 <context>
@@ -57472,12 +57472,12 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="82"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="96"/>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>项目</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="101"/>
@@ -57485,97 +57485,97 @@ Port</source>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="639"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="651"/>
         <source>Build</source>
-        <translation type="unfinished"></translation>
+        <translation>构建</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="105"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>新建</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="109"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>打开</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="113"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="117"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="121"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="516"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="134"/>
         <source>Build Project</source>
-        <translation type="unfinished"></translation>
+        <translation>构建项目</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="169"/>
         <source>File Save</source>
-        <translation type="unfinished"></translation>
+        <translation>文件保存</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="169"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="413"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="556"/>
         <source>Save changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>保存更改？</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="413"/>
         <source>Project Close</source>
-        <translation type="unfinished"></translation>
+        <translation>项目关闭</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="520"/>
         <source>Project Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>项目删除</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="520"/>
         <source>Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否确定？</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="556"/>
         <source>Project Changed</source>
-        <translation type="unfinished"></translation>
+        <translation>项目已更改</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="589"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="622"/>
         <source>Build Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>构建失败</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="606"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="639"/>
         <source>Build succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>构建成功</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="651"/>
         <source>Build failed</source>
-        <translation type="unfinished"></translation>
+        <translation>构建失败</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="729"/>
         <source>Script module (%1) not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到脚本模块(%1)。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIoXSdk.cpp" line="757"/>
         <source>Binary file can&apos;t be edited</source>
-        <translation type="unfinished"></translation>
+        <translation>无法编辑二进制文件</translation>
     </message>
 </context>
 <context>
@@ -57583,7 +57583,7 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="71"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="104"/>
@@ -57592,7 +57592,7 @@ Port</source>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="635"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="817"/>
         <source>Allow</source>
-        <translation type="unfinished"></translation>
+        <translation>允许</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="104"/>
@@ -57600,89 +57600,92 @@ Port</source>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="163"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="506"/>
         <source>Deny</source>
-        <translation type="unfinished"></translation>
+        <translation>拒绝</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="110"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>行动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="110"/>
         <source>Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>协议</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="110"/>
         <source>Remote
 IP/Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>远程
+IP/前缀</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="110"/>
         <source>Remote
 Port</source>
-        <translation type="unfinished"></translation>
+        <translation>远程
+端口</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="110"/>
         <source>Local
 Port</source>
-        <translation type="unfinished"></translation>
+        <translation>本地
+端口</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="303"/>
         <source>No Input -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无输入 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="345"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="354"/>
         <source>Invalid Remote Port -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的远程端口 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="366"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="375"/>
         <source>Invalid Local Port -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的本地端口 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="553"/>
         <source>Duplicate Firewall Rule -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>重复的防火墙规则 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="679"/>
         <source>Wrong Input -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>输入错误 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="303"/>
         <source>Please input an inbound rule.</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入入站规则。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="345"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="354"/>
         <source>Enter a valid Number for Remote Port. Valid range is 1 to 65535. Keyword &quot;any&quot; is supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>为远程端口输入一个有效的号码。有效范围为 1 到 65535。支持关键词“any”。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="366"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="375"/>
         <source>Enter a valid Number for Local Port. Valid range is 1 to 65535. Keyword &quot;any&quot; is supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>为本地端口输入一个有效的号码。有效范围为 1 到 65535。支持关键词“any”。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="553"/>
         <source>A Duplicate Firewall Rule is already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>重复的防火墙规则已存在。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationIpv6Firewall.cpp" line="679"/>
         <source>Please enter a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入一个数字。</translation>
     </message>
 </context>
 <context>
