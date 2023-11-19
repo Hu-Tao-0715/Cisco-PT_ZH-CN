@@ -4703,12 +4703,12 @@ Contact: miwang@cisco.com</translation>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseCableViewPopWidget.ui" line="417"/>
         <source>Dest. Device: Laptop1</source>
-        <translation>设备：笔记本电脑1</translation>
+        <translation>目标设备：笔记本电脑1</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseCableViewPopWidget.ui" line="424"/>
         <source>Dest. Port: FastEthernet0</source>
-        <translation>设备端口：FastEthernet0</translation>
+        <translation>目标设备端口：FastEthernet0</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseCableViewPopWidget.ui" line="459"/>
@@ -25611,55 +25611,59 @@ Send/Receive</source>
 
 Publisher Certificate Information:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+发布者证书信息：
+</translation>
     </message>
     <message>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="194"/>
         <source>    Issued To: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>    颁发给： %1</translation>
     </message>
     <message>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="195"/>
         <source>    Issued By: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>    发布者： %1</translation>
     </message>
     <message>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="196"/>
         <source>    Valid Dates: %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>    有效日期： %1 到 %2</translation>
     </message>
     <message>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="198"/>
         <source>    Serial Number: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>    序列号： %1</translation>
     </message>
     <message>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="201"/>
         <source>
 This ExApp is mandatory and may not be removed or disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+此 ExApp 是强制性的，不得删除或禁用。</translation>
     </message>
     <message>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="283"/>
         <source>Add Application Meta File</source>
-        <translation type="unfinished"></translation>
+        <translation>添加应用程序元文件</translation>
     </message>
     <message>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="285"/>
         <source>App Meta File (*.pta)</source>
-        <translation type="unfinished"></translation>
+        <translation>应用元文件 (*.pta)</translation>
     </message>
     <message>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="296"/>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="304"/>
         <source> - Error Importing App Meta File</source>
-        <translation type="unfinished"></translation>
+        <translation>- 导入应用程序元文件时出错</translation>
     </message>
     <message>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="296"/>
         <location filename="../gui/IPC/CEPListDlg.cpp" line="304"/>
         <source>An error occurred importing this application&apos;s meta file.</source>
-        <translation type="unfinished"></translation>
+        <translation>导入此应用程序的图元文件时出错。</translation>
     </message>
 </context>
 <context>
@@ -25675,22 +25679,22 @@ This ExApp is mandatory and may not be removed or disabled.</source>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/CableViewPopWidget.cpp" line="43"/>
         <source>Dest. Device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>目标设备： %1</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/CableViewPopWidget.cpp" line="44"/>
         <source>Dest. Port: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>目标端口： %1</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/CableViewPopWidget.cpp" line="45"/>
         <source>Total Cable Length: %1 meter(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>电缆总长度： %1 米</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/CableViewPopWidget.cpp" line="46"/>
         <source>Cable Type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>电缆类型： %1</translation>
     </message>
 </context>
 <context>
@@ -25801,14 +25805,14 @@ Please wait until it is finished.</source>
         <location filename="../gui/DeviceConfig/Switch/CiscoDeviceVlanCfg.cpp" line="173"/>
         <location filename="../gui/DeviceConfig/Switch/CiscoDeviceVlanCfg.cpp" line="176"/>
         <source>VLAN Database</source>
-        <translation type="unfinished"></translation>
+        <translation>VLAN 数据库</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Switch/CiscoDeviceVlanCfg.cpp" line="171"/>
         <location filename="../gui/DeviceConfig/Switch/CiscoDeviceVlanCfg.cpp" line="174"/>
         <location filename="../gui/DeviceConfig/Switch/CiscoDeviceVlanCfg.cpp" line="177"/>
         <source>Please enter a VLAN name and number.</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入 VLAN 名称和编号。</translation>
     </message>
 </context>
 <context>
@@ -31179,79 +31183,79 @@ reset activity?</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="958"/>
         <source>Invalid DNS Server IP.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的 DNS 服务器 IP。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1012"/>
         <source>Out of range, please adjust start IP address or max user count.</source>
-        <translation type="unfinished"></translation>
+        <translation>超出范围，请调整起始 IP 地址或最大用户数。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1248"/>
         <source>Invalid Gateway.</source>
-        <translation type="unfinished"></translation>
+        <translation>网关无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1254"/>
         <source>IP address and gateway are not on the same subnet!</source>
-        <translation type="unfinished"></translation>
+        <translation>IP 地址和网关不在同一子网上！</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1270"/>
         <source>This IP Address is not allowed for use on a port.</source>
-        <translation type="unfinished"></translation>
+        <translation>不允许在端口上使用此 IP 地址。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1461"/>
         <source>Value is out of range[1-254]</source>
-        <translation type="unfinished"></translation>
+        <translation>值超出范围[1-254]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1503"/>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1521"/>
         <source>Value is out of range[1-253]</source>
-        <translation type="unfinished"></translation>
+        <translation>值超出范围[1-253]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1668"/>
         <source>Characters must be [0-9]</source>
-        <translation type="unfinished"></translation>
+        <translation>字符必须为 [0-9]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1680"/>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1733"/>
         <source>Value is out of range [0-255]</source>
-        <translation type="unfinished"></translation>
+        <translation>值超出范围 [0-255]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1713"/>
         <source>Value is out of range [0-223]</source>
-        <translation type="unfinished"></translation>
+        <translation>值超出范围 [0-223]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1723"/>
         <source>Value is out of range [1-223]</source>
-        <translation type="unfinished"></translation>
+        <translation>值超出范围 [1-223]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1743"/>
         <source>Value is out of range [1-254]</source>
-        <translation type="unfinished"></translation>
+        <translation>值超出范围 [1-254]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1754"/>
         <source>Value is out of range [0-254]</source>
-        <translation type="unfinished"></translation>
+        <translation>值超出范围 [0-254]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="232"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysBasicSetup.cpp" line="1697"/>
         <source>First Octet Value of Subnet Mask is out of range [1-255]</source>
-        <translation type="unfinished"></translation>
+        <translation>子网掩码的第一个八位字节值超出范围 [1-255]</translation>
     </message>
 </context>
 <context>
@@ -31259,7 +31263,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/LinkSysGUI.cpp" line="693"/>
         <source>Wireless Tri-Band Home Router</source>
-        <translation type="unfinished"></translation>
+        <translation>无线三频家用路由器</translation>
     </message>
 </context>
 <context>
@@ -31269,66 +31273,66 @@ reset activity?</source>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="193"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="198"/>
         <source>Internet Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>互联网设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="299"/>
         <source>Connection Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>连接类型：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="308"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="313"/>
         <source>DHCP</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="321"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="326"/>
         <source>Static</source>
-        <translation type="unfinished"></translation>
+        <translation>静态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="44"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="52"/>
         <source>Default Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>默认网关</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="80"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="85"/>
         <source>IP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IP 地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="268"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="273"/>
         <source>Subnet Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>子网掩码</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="232"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="240"/>
         <source>DNS Server</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS 服务器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="119"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="127"/>
         <source>UserName</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="331"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="336"/>
         <source>PPPoE</source>
-        <translation type="unfinished"></translation>
+        <translation>PPPoE</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="355"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="363"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>密码</translation>
     </message>
 </context>
 <context>
@@ -31338,19 +31342,19 @@ reset activity?</source>
         <location filename="../gui/DesignerFiles/Routing/BaseLANCfg.ui" line="46"/>
         <location filename="../gui/DesignerFiles/Routing/BaseLANCfg.ui" line="51"/>
         <source>LAN Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>局域网设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseLANCfg.ui" line="89"/>
         <location filename="../gui/DesignerFiles/Routing/BaseLANCfg.ui" line="94"/>
         <source>IP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IP 地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseLANCfg.ui" line="122"/>
         <location filename="../gui/DesignerFiles/Routing/BaseLANCfg.ui" line="127"/>
         <source>Subnet Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>子网掩码</translation>
     </message>
 </context>
 <context>
@@ -31361,108 +31365,108 @@ reset activity?</source>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="50"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="53"/>
         <source>Wireless Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>无线设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="96"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="99"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="102"/>
         <source>SSID</source>
-        <translation type="unfinished"></translation>
+        <translation>SSID</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="135"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="138"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="141"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>信道</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="175"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>身份验证</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="183"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="186"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="189"/>
         <source>Encryption Type</source>
-        <translation type="unfinished"></translation>
+        <translation>加密类型</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="241"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="244"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="247"/>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>密钥</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="330"/>
         <source>RADIUS Server Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>RADIUS 服务器设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="357"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="360"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="363"/>
         <source>IP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IP 地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="412"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="415"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="418"/>
         <source>Shared Secret</source>
-        <translation type="unfinished"></translation>
+        <translation>共享密钥</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="465"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="468"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="471"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="478"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="481"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="484"/>
         <source>WEP</source>
-        <translation type="unfinished"></translation>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="491"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="494"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="497"/>
         <source>WPA-PSK</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA-PSK</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="504"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="507"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="510"/>
         <source>WPA2-PSK</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA2-PSK</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="517"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="520"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="523"/>
         <source>WPA</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="530"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="533"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="536"/>
         <source>WPA2</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA2</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="296"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="299"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="302"/>
         <source>Pass Phrase</source>
-        <translation type="unfinished"></translation>
+        <translation>密码短语</translation>
     </message>
 </context>
 <context>
@@ -31470,12 +31474,12 @@ reset activity?</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/LocalNetworkStatus.cpp" line="91"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/LocalNetworkStatus.cpp" line="93"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用</translation>
     </message>
 </context>
 <context>
@@ -32480,12 +32484,12 @@ reset activity?</source>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="56"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="56"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="264"/>
@@ -32495,45 +32499,45 @@ reset activity?</source>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="363"/>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="399"/>
         <source>Cannot Move Object -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法移动对象 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="265"/>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="400"/>
         <source>Moving </source>
-        <translation type="unfinished"></translation>
+        <translation>移动</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="265"/>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="400"/>
         <source> to </source>
-        <translation type="unfinished"></translation>
+        <translation>到</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="265"/>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="400"/>
         <source> is not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>是不允许的</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="349"/>
         <source>Moving Rack is not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>不允许移动机架</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="356"/>
         <source>Moving Shelf is not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>不允许移动货架</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="360"/>
         <source>Moving Table is not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>不允许移动工作台</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/LogicalClustersListView.cpp" line="364"/>
         <source>Moving Cable Pegboard is not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>不允许移动电缆钉板</translation>
     </message>
 </context>
 <context>
@@ -32541,22 +32545,22 @@ reset activity?</source>
     <message>
         <location filename="../gui/switches/LogicalToolbar.cpp" line="92"/>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Root</translation>
     </message>
     <message>
         <location filename="../gui/switches/LogicalToolbar.cpp" line="206"/>
         <source>Duplicate cluster names are not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>不允许使用重复的群集名称。</translation>
     </message>
     <message>
         <location filename="../gui/switches/LogicalToolbar.cpp" line="206"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../gui/switches/LogicalToolbar.cpp" line="349"/>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -33131,17 +33135,17 @@ reset activity?</source>
     <message>
         <location filename="../gui/Multiuser/MultiUserOptionsDlg.cpp" line="40"/>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <location filename="../gui/Multiuser/MultiUserOptionsDlg.cpp" line="82"/>
         <source>Invalid Depth entered for Remote Saving.</source>
-        <translation type="unfinished"></translation>
+        <translation>为远程保存输入的深度无效。</translation>
     </message>
     <message>
         <location filename="../gui/Multiuser/MultiUserOptionsDlg.cpp" line="89"/>
         <source>Enter Depth for Remote Saving.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入深度以进行远程保存。</translation>
     </message>
 </context>
 <context>
@@ -33149,53 +33153,53 @@ reset activity?</source>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="319"/>
         <source>Cancel Login</source>
-        <translation type="unfinished"></translation>
+        <translation>取消登录</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="320"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="330"/>
         <source>Skills For All Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Skills For All 登录</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="417"/>
         <source>Unknown login result</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的登录结果</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="421"/>
         <source>Login Success</source>
-        <translation type="unfinished"></translation>
+        <translation>登录成功</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="424"/>
         <source>Login Error: </source>
-        <translation type="unfinished"></translation>
+        <translation>登录错误：</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="427"/>
         <source>Login Canceled</source>
-        <translation type="unfinished"></translation>
+        <translation>登录已取消</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="430"/>
         <source>Login Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>登录超时</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="585"/>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="587"/>
         <source>Confirm Guest</source>
-        <translation type="unfinished"></translation>
+        <translation>确认客人</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="628"/>
         <source> Login with www.netacad.com credentials</source>
-        <translation type="unfinished"></translation>
+        <translation>使用 www.netacad.com 凭据登录</translation>
     </message>
 </context>
 <context>
@@ -36004,7 +36008,7 @@ Dest. Port: %4 %5
 Cable Type: %6</source>
         <translation>源设备： %1
 源端口： %2
-设备： %3
+目标设备： %3
 目标端口： %4 %5
 电缆类型： %6</translation>
     </message>
@@ -38867,7 +38871,7 @@ Supported file extensions: .html .htm . php .css .js</source>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerIPSettings.cpp" line="93"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerIPSettings.cpp" line="642"/>
@@ -40783,12 +40787,12 @@ Would you like to use the new version?</source>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/Shelf.cpp" line="214"/>
         <source>Please power off and remove all cables before placing in storage shelf.</source>
-        <translation type="unfinished"></translation>
+        <translation>在放入储物架之前，请关闭电源并拔下所有电缆。</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/Shelf.cpp" line="214"/>
         <source>Storage Shelf -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>存储架 -- %1</translation>
     </message>
 </context>
 <context>
@@ -40796,7 +40800,7 @@ Would you like to use the new version?</source>
     <message>
         <location filename="../gui/IoE/SignalDialog.cpp" line="45"/>
         <source>IoT Signal</source>
-        <translation type="unfinished"></translation>
+        <translation>物联网信号</translation>
     </message>
 </context>
 <context>
@@ -41050,7 +41054,7 @@ Reset the network?</source>
     <message>
         <location filename="../gui/scripting/CSmResourceReply.cpp" line="82"/>
         <source>Resource not found</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到资源</translation>
     </message>
 </context>
 <context>
@@ -41269,7 +41273,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/TableCellIPEdit.cpp" line="43"/>
         <source>have illegal characters, must be [ 0 - 9 ]</source>
-        <translation type="unfinished"></translation>
+        <translation>有非法字符，必须是 [ 0 - 9 ]</translation>
     </message>
 </context>
 <context>
@@ -41277,20 +41281,20 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/TableCellLineEdit.cpp" line="45"/>
         <source>The MAC Address length is not correct!!</source>
-        <translation type="unfinished"></translation>
+        <translation>MAC地址长度不正确！！</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/TableCellLineEdit.cpp" line="46"/>
         <location filename="../gui/DeviceConfig/Router/TableCellLineEdit.cpp" line="58"/>
         <location filename="../gui/DeviceConfig/Router/TableCellLineEdit.cpp" line="71"/>
         <source>00:00:00:00:00:00</source>
-        <translation type="unfinished"></translation>
+        <translation>00:00:00:00:00:00</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/TableCellLineEdit.cpp" line="57"/>
         <location filename="../gui/DeviceConfig/Router/TableCellLineEdit.cpp" line="70"/>
         <source>Invalid hex value </source>
-        <translation type="unfinished"></translation>
+        <translation>十六进制值无效</translation>
     </message>
 </context>
 <context>
@@ -41298,19 +41302,19 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/TftpBrowse.ui" line="13"/>
         <source>Project Name</source>
-        <translation type="unfinished"></translation>
+        <translation>项目名称</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/TftpBrowse.ui" line="76"/>
         <location filename="../gui/DesignerFiles/Workstation/TftpBrowse.ui" line="78"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/TftpBrowse.ui" line="83"/>
         <location filename="../gui/DesignerFiles/Workstation/TftpBrowse.ui" line="85"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -41318,42 +41322,42 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="186"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="462"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>停止</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="506"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>发送</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="567"/>
         <source>The time entered is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的时间无效。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="560"/>
         <source>The minimum value for the interval is 0.001 and the maximum is 1000000 seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>间隔的最小值为 0.001，最大值为 1000000 秒。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="560"/>
         <source>Incorrect Interval -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>间隔不正确 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="567"/>
         <source>Incorrect Time -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>时间不正确 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/TrafficGenerator.cpp" line="877"/>
         <source>Enter the DSCP value as a decimal in the TOS field. The DSCP value shows up as hex in PDU details.</source>
-        <translation type="unfinished"></translation>
+        <translation>在 TOS 字段中以小数形式输入 DSCP 值。DSCP 值在 PDU 详细信息中显示为十六进制。</translation>
     </message>
 </context>
 <context>
@@ -55366,12 +55370,13 @@ The FTP server checks whether the file exists and waits for the corresponding RN
         <location filename="../gui/Workspace/Physical/RackView/UnmanagedPhysicalCable.cpp" line="92"/>
         <source>
 Total Cable Length: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+电缆总长度： %1</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/UnmanagedPhysicalCable.cpp" line="121"/>
         <source>%6 cable connecting device %1 port %2 with device %3 Port %4</source>
-        <translation type="unfinished"></translation>
+        <translation>%6 电缆连接设备 %1 端口 %2 与设备 %3 端口 %4</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/UnmanagedPhysicalCable.cpp" line="124"/>
@@ -55380,17 +55385,21 @@ Source Port: %2
 Dest. Device: %3 
 Dest. Port: %4 %5
 Cable Type: %6</source>
-        <translation type="unfinished"></translation>
+        <translation>源设备： %1
+源端口： %2
+目标设备： %3
+目标端口： %4 %5
+电缆类型： %6</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/UnmanagedPhysicalCable.cpp" line="547"/>
         <source>Multiuser connections can&apos;t be recabled.  You must delete and recreate.</source>
-        <translation type="unfinished"></translation>
+        <translation>多用户连接无法重新布线。 您必须删除并重新创建。</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/UnmanagedPhysicalCable.cpp" line="547"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
 </context>
 <context>
@@ -55398,7 +55407,7 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/scripting/CUserAppResourceReply.cpp" line="97"/>
         <source>Resource not found</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到资源</translation>
     </message>
 </context>
 <context>
@@ -55927,27 +55936,27 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessLanControllerDialog.cpp" line="152"/>
         <source>Wireless LANs</source>
-        <translation type="unfinished"></translation>
+        <translation>无线局域网</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessLanControllerDialog.cpp" line="153"/>
         <source>AP Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>AP 组</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessLanControllerDialog.cpp" line="154"/>
         <source>DHCP</source>
-        <translation type="unfinished"></translation>
+        <translation>DHCP</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessLanControllerDialog.cpp" line="236"/>
         <source>Invalid IP Gateway.</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的 IP 网关。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessLanControllerDialog.cpp" line="261"/>
         <source>Invalid DNS.</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS 无效。</translation>
     </message>
 </context>
 <context>
@@ -55955,29 +55964,29 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="122"/>
         <source>2.4G</source>
-        <translation type="unfinished"></translation>
+        <translation>2.4G</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="125"/>
         <source>5G(1)</source>
-        <translation type="unfinished"></translation>
+        <translation>5G(1)</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="128"/>
         <source>5G(2)</source>
-        <translation type="unfinished"></translation>
+        <translation>5G(2)</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="220"/>
         <source>Duplicate and/or invalid MAC entries have been removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>已删除重复和/或无效的 MAC 条目。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="340"/>
         <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="348"/>
         <location filename="../gui/DeviceConfig/Router/WirelessMACFilter.cpp" line="353"/>
         <source>The MAC Address length is not correct!!</source>
-        <translation type="unfinished"></translation>
+        <translation>MAC地址长度不正确！！</translation>
     </message>
 </context>
 <context>
@@ -55985,58 +55994,58 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="108"/>
         <source>WEP</source>
-        <translation type="unfinished"></translation>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="110"/>
         <source>WPA Enterprise</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA 企业版</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="112"/>
         <source>WPA Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA 个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="114"/>
         <source>WPA2 Enterprise</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA2 企业版</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="116"/>
         <source>WPA2 Personal</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA2 个人版</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="106"/>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="150"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="129"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>自动</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="135"/>
         <source>Standard - 20MHz Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>标准 - 20MHz 信道</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="137"/>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="142"/>
         <source>Wide - 40MHz Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>宽 - 40MHz 信道</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="147"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>启用</translation>
     </message>
 </context>
 <context>
@@ -56152,17 +56161,17 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSecurityHomeRouter.cpp" line="61"/>
         <source>2.4 GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>2.4 GHz</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSecurityHomeRouter.cpp" line="66"/>
         <source>5 GHz - 1</source>
-        <translation type="unfinished"></translation>
+        <translation>5 GHz - 1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSecurityHomeRouter.cpp" line="71"/>
         <source>5 GHz - 2</source>
-        <translation type="unfinished"></translation>
+        <translation>5 GHz - 2</translation>
     </message>
 </context>
 <context>
@@ -57158,47 +57167,47 @@ End the expression with: &quot;)</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="86"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="101"/>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="102"/>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="103"/>
         <source>Alt+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+I</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="156"/>
         <source>A modem interface is required to dial out.</source>
-        <translation type="unfinished"></translation>
+        <translation>拨出需要调制解调器接口。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="156"/>
         <source>No Modem -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无调制解调器 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="164"/>
         <source>Incomplete fields</source>
-        <translation type="unfinished"></translation>
+        <translation>字段不完整</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="164"/>
         <source>All fields are required to establish a connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>所有字段都是建立连接的必填字段。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="195"/>
         <source>Error: Can&apos;t dial out without a modem attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>错误：在未连接调制解调器的情况下无法拨出。</translation>
     </message>
 </context>
 <context>
@@ -57206,86 +57215,86 @@ End the expression with: &quot;)</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="26"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="83"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="86"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="92"/>
         <source>Dial Modem</source>
-        <translation type="unfinished"></translation>
+        <translation>拨号调制解调器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="124"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="127"/>
         <source>close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="130"/>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="169"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="172"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="175"/>
         <source>User Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="188"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="191"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="194"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>密码：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="240"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="243"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="246"/>
         <source>Dial Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>拨号号码：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="278"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;取消</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="272"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="275"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="304"/>
         <source>D&amp;isconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>断&amp;开</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="298"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="301"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>断开</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="330"/>
         <source>&amp;Dial</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;拨号</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="324"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="327"/>
         <source>Dial</source>
-        <translation type="unfinished"></translation>
+        <translation>拨号</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="356"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="359"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="362"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>状态：</translation>
     </message>
 </context>
 <context>
