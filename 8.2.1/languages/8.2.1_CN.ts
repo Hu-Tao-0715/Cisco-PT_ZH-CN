@@ -14505,96 +14505,96 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="20"/>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2696"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2699"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2705"/>
         <source>Save Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>保存设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2721"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2724"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2730"/>
         <source>Cancel Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>取消更改</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="739"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="742"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="745"/>
         <source>Access Policy:</source>
-        <translation type="unfinished"></translation>
+        <translation>接入点:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="898"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="901"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="904"/>
         <source>Edit List</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑列表</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="798"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="801"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="804"/>
         <source>Enter Policy Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入策略名称：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="323"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="326"/>
         <source>Internet Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>互联网设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="363"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="366"/>
         <source>Applied PCs</source>
-        <translation type="unfinished"></translation>
+        <translation>应用电脑</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="400"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="403"/>
         <source>Access Restriction</source>
-        <translation type="unfinished"></translation>
+        <translation>访问限制</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="437"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="440"/>
         <source>Schedule</source>
-        <translation type="unfinished"></translation>
+        <translation>进度</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="474"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="477"/>
         <source>Website Blocking by URL Address</source>
-        <translation type="unfinished"></translation>
+        <translation>按 URL 地址阻止网站</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="511"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="514"/>
         <source>Website Blocking by Keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>按关键字阻止网站</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="548"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="551"/>
         <source>Blocked Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>被阻止的应用程序</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="675"/>
         <source>These settings are not available in this connection mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>这些设置在此连接模式下不可用。</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="818"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="821"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="824"/>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>状态：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1028"/>
@@ -58074,17 +58074,17 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationNetflowCollector.cpp" line="47"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationNetflowCollector.cpp" line="53"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>标签</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationNetflowCollector.cpp" line="54"/>
         <source>Quantity</source>
-        <translation type="unfinished"></translation>
+        <translation>数量</translation>
     </message>
 </context>
 <context>
@@ -58092,7 +58092,7 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationNetflowPieChart.cpp" line="260"/>
         <source>Traffic Contribution: </source>
-        <translation type="unfinished"></translation>
+        <translation>流量贡献：</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationNetflowPieChart.cpp" line="262"/>
@@ -58100,7 +58100,10 @@ Port</source>
 
 Flow information:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>)
+
+流程信息：
+</translation>
     </message>
 </context>
 <context>
@@ -58151,37 +58154,37 @@ Flow information:
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="14"/>
         <source>TFTP Service</source>
-        <translation type="unfinished"></translation>
+        <translation>TFTP 服务</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="58"/>
         <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="61"/>
         <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="64"/>
         <source>TFTP Server</source>
-        <translation type="unfinished"></translation>
+        <translation>TFTP 服务器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="83"/>
         <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="86"/>
         <source>close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="89"/>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="132"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="161"/>
         <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="164"/>
         <location filename="../gui/DesignerFiles/Workstation/BaseServiceTftp.ui" line="167"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览</translation>
     </message>
 </context>
 <context>
@@ -58190,61 +58193,61 @@ Flow information:
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClient.ui" line="14"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClient.ui" line="76"/>
         <source>SSH Client</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH 客户端</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClient.ui" line="70"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClient.ui" line="73"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>终端</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClient.ui" line="110"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClient.ui" line="113"/>
         <source>close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationSshClient.ui" line="116"/>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationSshClient.cpp" line="69"/>
         <source>Ctrl+F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationSshClient.cpp" line="123"/>
         <source>Session Terminated</source>
-        <translation type="unfinished"></translation>
+        <translation>会话已终止</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationSshClient.cpp" line="124"/>
         <source>The current session has closed. Do you want to reestablish a new session with the previous session options?</source>
-        <translation type="unfinished"></translation>
+        <translation>本届会议已闭幕。是否要使用上一个会话选项重新建立新会话？</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationSshClient.cpp" line="125"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationSshClient.cpp" line="151"/>
         <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;是</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationSshClient.cpp" line="125"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationSshClient.cpp" line="151"/>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;否</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationSshClient.cpp" line="149"/>
         <source>Confirm Terminating Session</source>
-        <translation type="unfinished"></translation>
+        <translation>确认终止会话</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationSshClient.cpp" line="150"/>
         <source>Closing the application will terminate the current session. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭应用程序将终止当前会话。是否要继续？</translation>
     </message>
 </context>
 <context>
@@ -60696,12 +60699,12 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="246"/>
         <source>Value is out of range [0-255]</source>
-        <translation type="unfinished"></translation>
+        <translation>值超出范围 [0-255]</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/AppAndGaming.cpp" line="220"/>
         <source>Value is out of range [0-65535]</source>
-        <translation type="unfinished"></translation>
+        <translation>值超出范围 [0-65535]</translation>
     </message>
     <message>
         <location filename="../gui/TranslatorInfo.cpp" line="7"/>
@@ -60719,7 +60722,10 @@ Do you want to save your changes?</source>
 As a result, they might not be compatible with version %2 you are using now.
 To avoid this warning when opening this activity next time, you will need to save this file with this version of %1.
 Make sure you review and update your scripts to avoid potential problems with this activity in the future.</source>
-        <translation type="unfinished"></translation>
+        <translation>指令中的某些脚本保存在早期版本的 %1 中。
+因此，它们可能与您现在使用的版本 %2 不兼容。
+若要避免在下次打开此活动时出现此警告，需要使用此版本的 %1 保存此文件。
+请务必查看并更新脚本，以避免将来出现此活动的潜在问题。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="311"/>
@@ -60727,7 +60733,10 @@ Make sure you review and update your scripts to avoid potential problems with th
 As a result, they might not be compatible with version %2 you are using now.
 To avoid this warning when opening this activity next time, you will need to save this file with this version of %1.
 Make sure you review and update your scripts to avoid potential problems with this activity in the future.</source>
-        <translation type="unfinished"></translation>
+        <translation>代码测试活动中的某些脚本保存在早期版本的 %1 中。
+因此，它们可能与您现在使用的版本 %2 不兼容。
+若要避免在下次打开此活动时出现此警告，需要使用此版本的 %1 保存此文件。
+请务必查看并更新脚本，以避免将来出现此活动的潜在问题。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="1187"/>
@@ -60735,7 +60744,7 @@ Make sure you review and update your scripts to avoid potential problems with th
         <location filename="../gui/File/NetworkFile.cpp" line="640"/>
         <location filename="../gui/File/NetworkFile.cpp" line="824"/>
         <source>Start saving file</source>
-        <translation type="unfinished"></translation>
+        <translation>开始保存文件</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="1304"/>
@@ -60752,52 +60761,52 @@ Make sure you review and update your scripts to avoid potential problems with th
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="1796"/>
         <source>Saving User Network.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存用户网络。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="1798"/>
         <source>Saving Initial Network.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存初始网络。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="1800"/>
         <source>Saving Answer Network.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存应答网络。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="1802"/>
         <source>Saving Comparator tree.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存比较器树。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="1805"/>
         <source>Saving Initial tree.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存初始树。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="1813"/>
         <source>Saving Locking tree.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存锁定树。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="1873"/>
         <source>Saving Variable Manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存变量管理器。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="1918"/>
         <source>Saving Script Modules.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存脚本模块。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="1950"/>
         <source>Saving Locations</source>
-        <translation type="unfinished"></translation>
+        <translation>保存位置</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="2178"/>
         <source>Loading physical workspace.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在加载物理工作区。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="2294"/>
@@ -60807,12 +60816,12 @@ Make sure you review and update your scripts to avoid potential problems with th
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="2326"/>
         <source>Loading User Network.</source>
-        <translation type="unfinished"></translation>
+        <translation>加载用户网络。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="2344"/>
         <source>Loading Initial Network.</source>
-        <translation type="unfinished"></translation>
+        <translation>加载初始网络。</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="2396"/>
@@ -60822,12 +60831,12 @@ Make sure you review and update your scripts to avoid potential problems with th
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="2503"/>
         <source>Loading Locking Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>加载锁定树</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="2666"/>
         <source>Loading Script Module</source>
-        <translation type="unfinished"></translation>
+        <translation>加载脚本模块</translation>
     </message>
     <message>
         <location filename="../gui/File/ActivityFile.cpp" line="2754"/>
@@ -60889,7 +60898,7 @@ Make sure you review and update your scripts to avoid potential problems with th
         <location filename="../gui/File/NetworkFile.cpp" line="1430"/>
         <location filename="../gui/File/NetworkFile.cpp" line="1434"/>
         <source>Please wait. Saving file...</source>
-        <translation type="unfinished"></translation>
+        <translation>请稍候。正在保存文件...</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="4079"/>
@@ -60915,67 +60924,67 @@ Make sure you review and update your scripts to avoid potential problems with th
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1385"/>
         <source>Saving Pixmaps</source>
-        <translation type="unfinished"></translation>
+        <translation>保存像素图</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1397"/>
         <source>Saving Remote Networks</source>
-        <translation type="unfinished"></translation>
+        <translation>保存远程网络</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1401"/>
         <source>Saving the Main Network.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存主网络。</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1408"/>
         <source>Saving Senarios.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存方案。</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1412"/>
         <source>Saving workspace.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存工作区。</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1417"/>
         <source>Saving clusters.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存集群。</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1430"/>
         <source>Saving physical workspace.</source>
-        <translation type="unfinished"></translation>
+        <translation>节省物理工作空间。</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1434"/>
         <source>Saving script module</source>
-        <translation type="unfinished"></translation>
+        <translation>保存脚本模块</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1646"/>
         <source>Loading images.</source>
-        <translation type="unfinished"></translation>
+        <translation>加载图像。</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1729"/>
         <source>Loading devices and drawings on workspace.</source>
-        <translation type="unfinished"></translation>
+        <translation>在工作区中加载设备和图形。</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1755"/>
         <source>Loading physical workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>加载物理工作区</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1773"/>
         <source>Loading network devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>加载网络设备。</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1796"/>
         <source>Loading scenarios.</source>
-        <translation type="unfinished"></translation>
+        <translation>加载方案。</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1815"/>
@@ -60985,7 +60994,7 @@ Make sure you review and update your scripts to avoid potential problems with th
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1830"/>
         <source>Loading Script Modules.</source>
-        <translation type="unfinished"></translation>
+        <translation>加载脚本模块。</translation>
     </message>
     <message>
         <location filename="../gui/File/NetworkFile.cpp" line="1889"/>
