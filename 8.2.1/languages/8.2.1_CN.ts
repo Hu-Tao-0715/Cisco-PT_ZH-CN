@@ -6588,7 +6588,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="78"/>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="147"/>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation>网址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/ASA/ASABookmarkManager.ui" line="92"/>
@@ -9249,7 +9249,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3543"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3546"/>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation>网址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="3562"/>
@@ -13887,7 +13887,7 @@ Port</source>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6324"/>
         <source>Interface Locked -- %1</source>
-        <translation>接口已锁定 -- %1</translation>
+        <translation>界面已锁定 -- %1</translation>
     </message>
     <message>
         <location filename="../gui/AppWindow.cpp" line="6534"/>
@@ -14601,70 +14601,70 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1031"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1034"/>
         <source>Days:</source>
-        <translation type="unfinished"></translation>
+        <translation>日：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1046"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1049"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1052"/>
         <source>EveryDay</source>
-        <translation type="unfinished"></translation>
+        <translation>每天</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1065"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1068"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1167"/>
         <source>Sun</source>
-        <translation type="unfinished"></translation>
+        <translation>周日</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1071"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1081"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1084"/>
         <source>Mon</source>
-        <translation type="unfinished"></translation>
+        <translation>周一</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1087"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1097"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1100"/>
         <source>Tue</source>
-        <translation type="unfinished"></translation>
+        <translation>周二</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1103"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1113"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1116"/>
         <source>Wed</source>
-        <translation type="unfinished"></translation>
+        <translation>周三</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1119"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1129"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1132"/>
         <source>Thu</source>
-        <translation type="unfinished"></translation>
+        <translation>周四</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1135"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1145"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1148"/>
         <source>Fri</source>
-        <translation type="unfinished"></translation>
+        <translation>周五</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1151"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1161"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1164"/>
         <source>Sat</source>
-        <translation type="unfinished"></translation>
+        <translation>周六</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1180"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1183"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1186"/>
         <source>Times:</source>
-        <translation type="unfinished"></translation>
+        <translation>时间：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1322"/>
@@ -14674,7 +14674,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1785"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1788"/>
         <source>:</source>
-        <translation type="unfinished"></translation>
+        <translation>:</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1199"/>
@@ -14682,7 +14682,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1659"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1799"/>
         <source>00</source>
-        <translation type="unfinished"></translation>
+        <translation>00</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1642"/>
@@ -14692,35 +14692,35 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2475"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2478"/>
         <source>to</source>
-        <translation type="unfinished"></translation>
+        <translation>到</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2115"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2118"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2121"/>
         <source>URL 1:</source>
-        <translation type="unfinished"></translation>
+        <translation>网址 1：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2135"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2138"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2141"/>
         <source>URL 3:</source>
-        <translation type="unfinished"></translation>
+        <translation>网址 3：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2155"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2158"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2161"/>
         <source>URL 2:</source>
-        <translation type="unfinished"></translation>
+        <translation>网址 2：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2175"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2178"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2181"/>
         <source>URL 4:</source>
-        <translation type="unfinished"></translation>
+        <translation>网址 4：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="2206"/>
@@ -19383,7 +19383,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseInstructionDialog.ui" line="256"/>
         <source>Back</source>
-        <translation>返回</translation>
+        <translation>上一个</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseInstructionDialog.ui" line="306"/>
@@ -24464,113 +24464,113 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="20"/>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="311"/>
         <source>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;Basic Wireless Settings&lt;/b&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p align=&quot;right&quot;&gt;&lt;b&gt;基本无线设置&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="564"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="599"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="634"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>自动</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="481"/>
         <source>Mixed</source>
-        <translation type="unfinished"></translation>
+        <translation>混合</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="714"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="717"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="720"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="695"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="698"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="701"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>启用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="518"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="521"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="524"/>
         <source>linksys</source>
-        <translation type="unfinished"></translation>
+        <translation>linksys</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="870"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="873"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="876"/>
         <source>Save Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>保存设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="892"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="895"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="898"/>
         <source>Cancel Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>取消更改</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="455"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="458"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="461"/>
         <source>Network Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>网络模式：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="302"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="305"/>
         <source>Basic Wireless Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>基本无线设置</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="493"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="496"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="499"/>
         <source>Network Name (SSID):</source>
-        <translation type="unfinished"></translation>
+        <translation>网络名称 (SSID)：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="538"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="541"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="544"/>
         <source>Radio Band:</source>
-        <translation type="unfinished"></translation>
+        <translation>无线电频段：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="576"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="579"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="582"/>
         <source>Wide Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>宽通道：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="611"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="614"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="617"/>
         <source>Standard Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>标准通道：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="649"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="652"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="655"/>
         <source>SSID Broadcast:</source>
-        <translation type="unfinished"></translation>
+        <translation>SSID 广播：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="1079"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="1082"/>
         <source>Help...</source>
-        <translation type="unfinished"></translation>
+        <translation>帮助...</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="1097"/>
@@ -24579,7 +24579,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;Help...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ffffff;&quot;&gt;帮助...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -25706,85 +25710,85 @@ This ExApp is mandatory and may not be removed or disabled.</source>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="242"/>
         <source>Custom Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义反馈</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="263"/>
         <source>You did not complete the activity. Please close this window and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>您未完成活动。请关闭此窗口，然后重试。</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="270"/>
         <source>You did not complete the activity. There are connectivity tests that failed. Please close this window and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>您未完成活动。有失败的连接测试。请关闭此窗口，然后重试。</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="280"/>
         <source>Congratulations %1! You completed the activity.</source>
-        <translation type="unfinished"></translation>
+        <translation>恭喜 %1！您已完成活动。</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="328"/>
         <source>Component</source>
-        <translation type="unfinished"></translation>
+        <translation>组成部分</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="328"/>
         <source>Items/Total</source>
-        <translation type="unfinished"></translation>
+        <translation>项目/总计</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="328"/>
         <source>Score</source>
-        <translation type="unfinished"></translation>
+        <translation>评分</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="351"/>
         <source>Connectivity</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="352"/>
         <source>Connectivity Tests</source>
-        <translation type="unfinished"></translation>
+        <translation>连接测试</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="385"/>
         <source>Completed: </source>
-        <translation type="unfinished"></translation>
+        <translation>完成：</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="385"/>
         <source>Points: </source>
-        <translation type="unfinished"></translation>
+        <translation>分：</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="408"/>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="478"/>
         <source>Item</source>
-        <translation type="unfinished"></translation>
+        <translation>项</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="502"/>
         <source>Incorrect</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="418"/>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="437"/>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="529"/>
         <source>Correct</source>
-        <translation type="unfinished"></translation>
+        <translation>正确</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="640"/>
         <source>Time Elapsed: </source>
-        <translation type="unfinished"></translation>
+        <translation>经过的时间：</translation>
     </message>
     <message>
         <location filename="../gui/activity/CheckAnswerPage.cpp" line="644"/>
         <source>Time Left: </source>
-        <translation type="unfinished"></translation>
+        <translation>剩余时间：</translation>
     </message>
 </context>
 <context>
@@ -31591,7 +31595,7 @@ reset activity?</source>
         <location filename="../gui/activity/LockingTree.cpp" line="370"/>
         <location filename="../gui/activity/LockingTree.cpp" line="658"/>
         <source>Use Config Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>使用配置选项卡</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="371"/>
@@ -59046,7 +59050,7 @@ and all previous settings will be erased.</source>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="225"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="228"/>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation>网址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="263"/>
