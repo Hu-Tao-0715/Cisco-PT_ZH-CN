@@ -16497,7 +16497,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="236"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="556"/>
         <source>Status</source>
-        <translation>地位</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="241"/>
@@ -25877,13 +25877,13 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="13"/>
         <source>Cable Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>电缆连接</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="24"/>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="32"/>
         <source>Cable</source>
-        <translation type="unfinished"></translation>
+        <translation>电缆</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="63"/>
@@ -25891,39 +25891,39 @@ Please wait until it is finished.</source>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="121"/>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="126"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>端口</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="87"/>
         <source>&lt;-&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;-&gt;</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="95"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="157"/>
         <source>From Port</source>
-        <translation type="unfinished"></translation>
+        <translation>从端口</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="162"/>
         <source>To Port</source>
-        <translation type="unfinished"></translation>
+        <translation>到端口</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="191"/>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="193"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="217"/>
         <location filename="../gui/DesignerFiles/Cloud/CloudCableConnectionsBase.ui" line="219"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
@@ -26233,27 +26233,27 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DeviceConfig/CommandLine.cpp" line="169"/>
         <source>Command+F6 to exit CLI focus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Command+F6 退出 CLI 焦点。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CommandLine.cpp" line="171"/>
         <source>Control+F6 to exit CLI focus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F6 退出 CLI 焦点。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CommandLine.cpp" line="291"/>
         <source>The equivalent IOS Commands are </source>
-        <translation type="unfinished"></translation>
+        <translation>等效的 IOS 命令是</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CommandLine.cpp" line="822"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>复制</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CommandLine.cpp" line="823"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴</translation>
     </message>
 </context>
 <context>
@@ -26261,34 +26261,34 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="52"/>
         <source>New Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>新设备</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="106"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>网络</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="237"/>
         <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="260"/>
         <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="299"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="259"/>
         <source>Use Global Config</source>
-        <translation type="unfinished"></translation>
+        <translation>使用全局配置</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="297"/>
         <source>Use New Devices Config</source>
-        <translation type="unfinished"></translation>
+        <translation>使用新设备配置</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CConfigCustomInterfaces.cpp" line="332"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
 </context>
 <context>
@@ -28293,23 +28293,24 @@ Address</source>
     <message>
         <location filename="../gui/DeviceConfig/Router/FactoryDefaults.cpp" line="70"/>
         <source>Restore Factory Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复出厂默认设置</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/FactoryDefaults.cpp" line="70"/>
         <source>Warning! If you click OK, the device will reset to factory default
 and all previous settings will be erased.</source>
-        <translation type="unfinished"></translation>
+        <translation>警告！如果单击确定，设备将重置为出厂默认设置
+并且所有以前的设置都将被删除。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/FactoryDefaults.cpp" line="70"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/FactoryDefaults.cpp" line="70"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
@@ -28317,69 +28318,69 @@ and all previous settings will be erased.</source>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="38"/>
         <source>Please Select a File to Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择要恢复的文件</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="39"/>
         <source>Start to Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>开始恢复</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="45"/>
         <source>Please Select Backup File </source>
-        <translation type="unfinished"></translation>
+        <translation>请选择备份文件</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="52"/>
         <location filename="../gui/FileTreeView.cpp" line="59"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="58"/>
         <source>Please Select a File to Upgrade Firmware</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择一个文件来升级固件</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="67"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>桌面</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="130"/>
         <source>Please select a File to Restore.</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择要还原的文件。</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="130"/>
         <source>Restore Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复配置</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="140"/>
         <source>Please select a File to Backup.</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择要备份的文件。</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="140"/>
         <location filename="../gui/FileTreeView.cpp" line="170"/>
         <source>Backup Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>备份配置</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="170"/>
         <source>Unable to overwrite %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法覆盖 %1。</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="190"/>
         <source>Please select a File to upgrade.</source>
-        <translation type="unfinished"></translation>
+        <translation>请选择要升级的文件。</translation>
     </message>
     <message>
         <location filename="../gui/FileTreeView.cpp" line="190"/>
         <source>Upgrade Firmware</source>
-        <translation type="unfinished"></translation>
+        <translation>升级固件</translation>
     </message>
 </context>
 <context>
@@ -28791,12 +28792,12 @@ and all previous settings will be erased.</source>
     <message>
         <location filename="../gui/Workspace/Physical/GeoIconLabel.cpp" line="94"/>
         <source>Duplicate device names are not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>不允许使用重复的设备名称。</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoIconLabel.cpp" line="94"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
 </context>
 <context>
@@ -41155,12 +41156,12 @@ Reset the network?</source>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/StackableTable.cpp" line="200"/>
         <source>Please power off and remove all cables before placing in storage shelf.</source>
-        <translation type="unfinished"></translation>
+        <translation>在放入储物架之前，请关闭电源并拔下所有电缆。</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/StackableTable.cpp" line="200"/>
         <source>Storage Shelf -- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>存储架 -- %1</translation>
     </message>
 </context>
 <context>
@@ -41168,12 +41169,12 @@ Reset the network?</source>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/StackableWidget.cpp" line="543"/>
         <source>Removing the shelf will also delete all the devices. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>移除磁盘架也会删除所有设备。继续？</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/RackView/StackableWidget.cpp" line="544"/>
         <source>Removing the table will also delete all the devices. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>删除该表也会删除所有设备。继续？</translation>
     </message>
 </context>
 <context>
@@ -41181,22 +41182,22 @@ Reset the network?</source>
     <message>
         <location filename="../gui/IoE/SubComponent.cpp" line="120"/>
         <source>Choose Image</source>
-        <translation type="unfinished"></translation>
+        <translation>选择图片</translation>
     </message>
     <message>
         <location filename="../gui/IoE/SubComponent.cpp" line="121"/>
         <source>Images (*.png *.xpm *.jpg)</source>
-        <translation type="unfinished"></translation>
+        <translation>图片 (*.png *.xpm *.jpg)</translation>
     </message>
     <message>
         <location filename="../gui/IoE/SubComponent.cpp" line="176"/>
         <source>This component name cannot be empty. Please rename.</source>
-        <translation type="unfinished"></translation>
+        <translation>此组件名称不能为空。请重命名。</translation>
     </message>
     <message>
         <location filename="../gui/IoE/SubComponent.cpp" line="197"/>
         <source>This component name already exists. Please rename.</source>
-        <translation type="unfinished"></translation>
+        <translation>此组件名称已存在。请重命名。</translation>
     </message>
 </context>
 <context>
@@ -41204,17 +41205,17 @@ Reset the network?</source>
     <message>
         <location filename="../gui/IoE/SubComponentImage.cpp" line="25"/>
         <source>Press to change image</source>
-        <translation type="unfinished"></translation>
+        <translation>按下可更改图像</translation>
     </message>
     <message>
         <location filename="../gui/IoE/SubComponentImage.cpp" line="71"/>
         <source>Choose Image</source>
-        <translation type="unfinished"></translation>
+        <translation>选择图片</translation>
     </message>
     <message>
         <location filename="../gui/IoE/SubComponentImage.cpp" line="72"/>
         <source>Images (*.png *.xpm *.jpg)</source>
-        <translation type="unfinished"></translation>
+        <translation>图片 (*.png *.xpm *.jpg)</translation>
     </message>
 </context>
 <context>
@@ -41222,33 +41223,34 @@ Reset the network?</source>
     <message>
         <location filename="../gui/DeviceConfig/Switch/SwitchDialog.cpp" line="236"/>
         <source>Algorithm Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>算法设置</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Switch/SwitchDialog.cpp" line="272"/>
         <source>Device is still booting.
 Please wait until it is finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>设备仍在启动。
+请等待完成。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Switch/SwitchDialog.cpp" line="309"/>
         <source>Device is in ROMMON mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>设备处于 ROMMON 模式。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Switch/SwitchDialog.cpp" line="460"/>
         <source>CLIENTLESS VPN</source>
-        <translation type="unfinished"></translation>
+        <translation>无客户端 VPN</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Switch/SwitchDialog.cpp" line="461"/>
         <source>Bookmark Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>书签管理器</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Switch/SwitchDialog.cpp" line="462"/>
         <source>User Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>用户管理器</translation>
     </message>
 </context>
 <context>
@@ -41256,24 +41258,24 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/DesignerFiles/Tv/BaseTVPhysical.ui" line="25"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Tv/BaseTVPhysical.ui" line="39"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>状态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Tv/BaseTVPhysical.ui" line="45"/>
         <location filename="../gui/DesignerFiles/Tv/BaseTVPhysical.ui" line="50"/>
         <source>ON</source>
-        <translation type="unfinished"></translation>
+        <translation>开</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Tv/BaseTVPhysical.ui" line="61"/>
         <location filename="../gui/DesignerFiles/Tv/BaseTVPhysical.ui" line="63"/>
         <source>OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>关</translation>
     </message>
 </context>
 <context>
