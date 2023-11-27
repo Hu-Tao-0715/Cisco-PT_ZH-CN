@@ -5,7 +5,6 @@
 
 针对Cisco PT 6.2sv和Cisco PT 8.2.1制作的汉化包<br>
 以及8.2.1版本的免登录补丁<br>
-注：.ts文件为QT&nbsp;Linguist编辑用源文件
 
 ## 下载
 
